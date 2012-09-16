@@ -1,0 +1,5 @@
+<!--improve_weapon_body-->
+<p><b>{Blacksmith}:</b></p>
+<br/>{rows}
+<p>{develop_status}</p>
+<!--/improve_weapon_body-->

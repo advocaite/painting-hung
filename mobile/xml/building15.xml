@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+					<note>
+					<content><![CDATA[<p><span style=" font-size:18px;"><strong>Thạch thất</strong></span><br /><br /></p>
+<table style="font-size:1em;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding:5px; max-width:200px;" valign="top"><img src="images/buildings/gid23.png" alt="" /></td>
+<td style="padding:0 10px" align="justify" valign="top">
+<p>Ở giai đoạn đầu, t&agrave;i nguy&ecirc;n khan hiếm, kẻ th&ugrave; xung quanh lu&ocirc;n lăm le t&agrave;i nguy&ecirc;n của bạn. L&uacute;c n&agrave;y Thạch thất l&agrave; c&ocirc;ng tr&igrave;nh bạn c&oacute; thể tin cậy để cất giấu t&agrave;i nguy&ecirc;n của m&igrave;nh, gi&uacute;p tr&aacute;nh kh&ocirc;ng bị cướp trong c&aacute;c trận đ&aacute;nh bất ngờ.</p>
+<p>Ở  cấp 1, Thạch thất của c&aacute;c chủng tộc đều l&agrave; 100.  Ngo&agrave;i ra c&oacute; thể x&acirc;y nhiều Thạch thất nếu Thạch thất đầu ti&ecirc;n đ&atilde; đạt cấp 10.&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Sức chứa theo cấp độ của hầm </strong></p>
+<table class="tbg" style="width: 100%;" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td>Cấp độ</td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/go.gif" alt="gỗ" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/da.gif" alt="đ&aacute;" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/sat.gif" alt="sắt" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/lua.gif" alt="l&uacute;a" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/tieuhao.gif" alt="ti&ecirc;u hao" /></td>
+<td>DV</td>
+<td width="170">Sức chứa</td>
+</tr>
+<tr>
+<td>1</td>
+<td height="17" align="right">40</td>
+<td height="17" align="right">50</td>
+<td align="right">30</td>
+<td height="17" align="right">10</td>
+<td>0</td>
+<td>1</td>
+<td>100</td>
+</tr>
+<tr>
+<td>2</td>
+<td height="17" align="right">51</td>
+<td align="right">64</td>
+<td align="right">38</td>
+<td align="right">13</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td>200</td>
+</tr>
+<tr>
+<td>3</td>
+<td height="17" align="right">66</td>
+<td align="right">82</td>
+<td align="right">49</td>
+<td align="right">16</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td>300</td>
+</tr>
+<tr>
+<td>4</td>
+<td height="17" align="right">84</td>
+<td align="right">105</td>
+<td align="right">63</td>
+<td align="right">21</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td>400</td>
+</tr>
+<tr>
+<td>5</td>
+<td height="17" align="right">107</td>
+<td align="right">134</td>
+<td align="right">81</td>
+<td align="right">27</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td>500</td>
+</tr>
+<tr>
+<td>6</td>
+<td height="17" align="right">137</td>
+<td align="right">172</td>
+<td align="right">103</td>
+<td align="right">34</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td>600</td>
+</tr>
+<tr>
+<td>7</td>
+<td height="17" align="right">176</td>
+<td align="right">220</td>
+<td align="right">132</td>
+<td align="right">44</td>
+<td align="right">1</td>
+<td align="right">3</td>
+<td>700</td>
+</tr>
+<tr>
+<td>8</td>
+<td height="17" align="right">225</td>
+<td align="right">281</td>
+<td align="right">169</td>
+<td align="right">56</td>
+<td align="right">1</td>
+<td align="right">3</td>
+<td>800</td>
+</tr>
+<tr>
+<td>9</td>
+<td height="17" align="right">288</td>
+<td align="right">360</td>
+<td align="right">216</td>
+<td align="right">72</td>
+<td align="right">1</td>
+<td align="right">4</td>
+<td>900</td>
+</tr>
+<tr>
+<td>10</td>
+<td height="17" align="right">369</td>
+<td align="right">461</td>
+<td align="right">277</td>
+<td align="right">92</td>
+<td align="right">1</td>
+<td align="right">6</td>
+<td>1000</td>
+</tr>
+<tr>
+<td style="padding: 0px; height: 2px;" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td>Tổng TN</td>
+<td><strong>1544</strong></td>
+<td><strong>1930</strong></td>
+<td><strong>1158</strong></td>
+<td><strong>386</strong></td>
+<td><strong>6</strong></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>]]></content>
+					</note>

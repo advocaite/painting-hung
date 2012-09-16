@@ -1,0 +1,10 @@
+<!--hero_info_body-->
+<p><a href="general_more.php?id={id}&amp;t=3">{hero_name}</a> ({troop_name} - {level} {hero_level})</p><br />
+<p>{tang_cong_cho_linh}: {diem_1}<b><a href="build.php?id={building_index}&amp;c={temp1}">{dau_cong_1}</a></b></p><br />
+<p>{tang_cong_hero}: {diem_2}<b><a href="build.php?id={building_index}&amp;c={temp2}">{dau_cong_2}</a></b></p><br />
+<p>{phong_thu_cho_linh}: {diem_3}<b><a href="build.php?id={building_index}&amp;c={temp3}">{dau_cong_3}</a></b></p><br />
+<p>{phong_thu_cho_hero}: {diem_4}<b><a href="build.php?id={building_index}&amp;c={temp4}">{dau_cong_4}</a></b></p><br />
+<p>{hoi_mau}: {diem_5}<b><a href="build.php?id={building_index}&amp;c={temp5}">{dau_cong_5}</a></b></p><br />
+<p>{diem_kinh_nghiem}: {phan_tram_6} {diem_cong}</p><br />
+<p>{sinh_luc}: {phan_tram_7}</p>
+<!--/hero_info_body-->

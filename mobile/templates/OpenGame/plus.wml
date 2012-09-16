@@ -1,0 +1,39 @@
+{top_menu}
+<!--plus-->
+<p><big>{Asu}:</big></p>
+<p>{Reward}: {total_gold} {Gold}</p>
+<p>{Deposit}: {total_gold_deposit} {Gold}</p>
+<p>--------------------------</p>
+<p>+ 25% {Production}<br/>
+<img src="images/un/r/1.gif" alt="{lumber}" />{lumber_action}<br/>
+<img src="images/un/r/2.gif" alt="{clay}" />{clay_action}<br/>
+<img src="images/un/r/3.gif" alt="{iron}" />{iron_action}<br/>
+<img src="images/un/r/4.gif" alt="{crop}" />{crop_action}<br/>
+{cost} {crop_asu} {Gold}</p>
+<p>--------------------------</p>
+<p> +10%:<br/>
+{attack value} {attack_action}<br/>
+{defence value} {defence_action}<br/>
+{cost} {defence_asu} {Gold}
+</p>
+<p>--------------------------</p>
+<p>{sms_attack} {sms_action}</p>
+<p>{cost} {sms_attack_asu} {Gold}/1Tin</p>
+<p>--------------------------</p>
+<p>{Build value} {build_action}</p>
+<p>{cost} {build_asu} {Gold}</p>
+<p>--------------------------</p>
+<p>{active now} {complete_action} <br/>
+{cost} {complete_asu} {Gold}</p>
+<p>--------------------------</p>
+<p>{the_bai_xem} {buy_action_1}</p>
+<p>{cost} {the_bai_1_asu} {Gold}</p>
+<p>--------------------------</p>
+<p>{the_bai_user} {buy_action_2}</p>
+<p>{cost}{the_bai_2_asu} {Gold}</p>
+<p>--------------------------</p>
+<p>{the_bai_lien_minh} {buy_action_3}</p>
+<p>{cost} {the_bai_3_asu} {Gold}</p>
+<!--/plus-->
+</card>
+</wml>

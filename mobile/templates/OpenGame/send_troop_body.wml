@@ -1,0 +1,35 @@
+<!--send_troop_body-->
+{rows}
+<p><img  src="images/icon/hero4.ico.gif" alt="icon"/><input name="t12" size="2" value="0" />{sum12}</p><br/>
+<p>{Select}:<select name="st">
+	<option value="2">{Reinforcement}</option>
+    <option value="3">{Attack}: {Raid}</option>
+    <option value="4">{Attack}: {Normal}</option>
+</select></p>
+<p>{Village}:<input name="vn" value="{vn}" size="10" maxlength="20"/></p>
+<p>{or}</p>
+<p>X: <input name="x" value="{x}" size="2" maxlength="4"/></p>
+<p>Y: <input name="y" value="{y}" size="2" maxlength="4"/></p>
+<p><anchor>{Accept}
+  <go method="get" href="general_more.php"> 
+<postfield name="id" value="{id}"></postfield>
+<postfield name="t" value="1"></postfield>
+  <postfield name="t1" value="$(t1)"></postfield>
+  <postfield name="t2" value="$(t2)"></postfield>
+  <postfield name="t3" value="$(t3)"></postfield>
+  <postfield name="t4" value="$(t4)"></postfield>
+  <postfield name="t5" value="$(t5)"></postfield>
+  <postfield name="t6" value="$(t6)"></postfield>
+  <postfield name="t7" value="$(t7)"></postfield>
+  <postfield name="t8" value="$(t8)"></postfield>
+  <postfield name="t9" value="$(t9)"></postfield>
+  <postfield name="t10" value="$(t10)"></postfield>
+  <postfield name="t11" value="$(t11)"></postfield>
+  <postfield name="t12" value="$(t12)"></postfield>
+  <postfield name="x" value="$(x)"></postfield>
+  <postfield name="y" value="$(y)"></postfield>
+  <postfield name="vn" value="$(vn)"></postfield>
+  <postfield name="st" value="$(st)"></postfield>
+  </go>
+ </anchor></p>
+ <!--/send_troop_body-->

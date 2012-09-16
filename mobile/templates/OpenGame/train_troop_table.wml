@@ -1,0 +1,13 @@
+{rows}
+<p><anchor>{to train}
+<go method="get" href="general_more.php">
+	<postfield name="id" value="{id}"></postfield>
+	<postfield name="t1" value="$(t1)"></postfield>
+    <postfield name="t2" value="$(t2)"></postfield>
+    <postfield name="t3" value="$(t3)"></postfield>
+    <postfield name="t4" value="$(t4)"></postfield>
+    <postfield name="t5" value="$(t5)"></postfield>
+    <postfield name="t6" value="$(t6)"></postfield>
+    <postfield name="t7" value="$(t7)"></postfield>
+    <postfield name="t8" value="$(t8)"></postfield>
+</go></anchor></p>

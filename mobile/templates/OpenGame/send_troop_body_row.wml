@@ -1,0 +1,3 @@
+<!--send_troop_body_row-->
+<p><img  src="{icon}.gif" alt="icon"/><input name="t{i}" size="2" value="{t_1}" />{sum}</p><br/>
+<!--/send_troop_body_row-->

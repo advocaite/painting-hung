@@ -1,0 +1,3 @@
+<!--troop_move_status_row-->
+<br/><p><img src="{image}" ></img> {mui_ten} {sum} {title} {in} {duration} {hrs}</p>
+<!--/troop_move_status_row-->

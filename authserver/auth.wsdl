@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<definitions name='Auth'
+  targetNamespace='urn:AdvocaiteAuthserver'
+  xmlns:tns='urn:AdvocaiteAuthserver'
+  xmlns:soap='http://schemas.xmlsoap.org/wsdl/soap/'
+  xmlns:xsd='http://www.w3.org/2001/XMLSchema'
+  xmlns:soapenc='http://schemas.xmlsoap.org/soap/encoding/'
+  xmlns:wsdl='http://schemas.xmlsoap.org/wsdl/'
+  xmlns='http://schemas.xmlsoap.org/wsdl/'>
+
+<message name='test_functionRequest'>
+  <part name='upc' type='xsd:string'/>
+  <part name='upd' type='xsd:string'/>
+</message>
+<message name='test_functionResponse'>
+  <part name='Result' type='xsd:string'/>
+</message>
+
+<portType name='AuthPortType'>
+  <operation name='test_function'>
+    <input message='tns:test_functionRequest'/>
+    <output message='tns:test_functionResponse'/>
+  </operation>
+</portType>
+
+<binding name='AuthBinding' type='tns:AuthPortType'>
+  <soap:binding style='rpc'
+    transport='http://schemas.xmlsoap.org/soap/http'/>
+  <operation name='test_function'>
+    <soap:operation soapAction='urn:xmethods-delayed-quotes#test_function'/>
+    <input>
+      <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
+        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+    </input>
+    <output>
+      <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
+        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+    </output>
+  </operation>
+</binding>
+
+<service name='AuthService'>
+  <port name='AuthPort' binding='AuthBinding'>
+    <soap:address location='http://yourdomain.com/soap/server.php'/>
+  </port>
+</service>
+</definitions>

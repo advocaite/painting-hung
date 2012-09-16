@@ -1,0 +1,7 @@
+﻿<!--build_update-->
+<p align="center"><b>{Name} {level} {level_1}</b></p><br/>
+{curent_product}
+<p>{90_wml} {level_new}:</p><br/>
+<p><img src='images/un/r/1.gif' alt='icon'></img>{Lumber} | <img src='images/un/r/2.gif' alt='icon'></img>{Clay} | <img src='images/un/r/3.gif' alt='icon'></img>{Iron} |<br/> <img src='images/un/r/4.gif' alt='icon'></img>{Crop} | <img src='images/un/r/5.gif' alt='icon'></img>{need_worker} | <img src='images/un/a/clock.gif' width='18' height='12' alt='icon'> </img>{Time}</p>
+<p>{dieu_kien}<img src='images/un/a/x.gif' alt='icon'></img></p>
+<!--/build_update-->

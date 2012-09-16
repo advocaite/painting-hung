@@ -1,0 +1,73 @@
+// ----------------------------------------------------------------------------
+// markItUp!
+// ----------------------------------------------------------------------------
+// Copyright (C) 2008 Jay Salvat
+// http://markitup.jaysalvat.com/
+// ----------------------------------------------------------------------------
+// BBCode tags example
+// http://en.wikipedia.org/wiki/Bbcode
+// ----------------------------------------------------------------------------
+// Feel free to add more tags
+// ----------------------------------------------------------------------------
+mySettings = {
+    previewParserPath: '', // path to your BBCode parser
+    markupSet: [
+		{ name: 'Bold', key: 'B', openWith: '[b]', closeWith: '[/b]' },
+		{ name: 'Italic', key: 'I', openWith: '[i]', closeWith: '[/i]' },
+		{ name: 'Underline', key: 'U', openWith: '[u]', closeWith: '[/u]' },
+		{ separator: '---------------' },
+		{ name: 'Picture', replaceWith: '' },
+    //{ name: 'Picture', key: 'P', replaceWith: '[img][![Url]!][/img]' },
+		{name: 'Link', key: 'L', openWith: '[url=[![Url]!]]', closeWith: '[/url]', placeHolder: 'Your text to link here...' },
+		{ separator: '---------------' },
+		{ name: 'Size', key: 'S', openWith: '[size=[![Text size]!]]', closeWith: '[/size]',
+		    dropMenu: [
+			{ name: 'Big', openWith: '[size=200]', closeWith: '[/size]' },
+			{ name: 'Normal', openWith: '[size=100]', closeWith: '[/size]' },
+			{ name: 'Small', openWith: '[size=50]', closeWith: '[/size]' }
+		]
+		},
+		{ separator: '---------------' },
+		{ name: 'Bulleted list', openWith: '[list]\n', closeWith: '\n[/list]' },
+		{ name: 'Numeric list', openWith: '[list=[![Starting number]!]]\n', closeWith: '\n[/list]' },
+		{ name: 'List item', openWith: '[*] ' },
+		{ separator: '---------------' },
+		{ name: 'Quotes', openWith: '[quote]', closeWith: '[/quote]' },
+		{ name: 'Code', openWith: '[code]', closeWith: '[/code]' },
+		{ separator: '---------------' },
+		{ name: 'Clean', className: "clean", replaceWith: function(markitup) { return markitup.selection.replace(/\[(.*?)\]/g, "") } },
+		{ name: 'Emoticons', dropMenu: [
+				{ title: ':d', replaceWith: ':d' },
+	          	{ title: ':)', replaceWith: ':)' },
+	          	{ title: ':hh', replaceWith: ':hh' },
+	        	{ title: ':((', replaceWith: ':((' },
+	          	{ title: ':x', replaceWith: ':x' },
+	          	{ title: ':-*', replaceWith: ':-*' },
+	          	{ title: ':+)', replaceWith: ':+)' },
+
+	          	{ title: 'X-(', replaceWith: 'X-(' },
+	          	{ title: ':-S', replaceWith: ':-S' },
+	          	{ title: ':-(', replaceWith: ':-(' },
+	          	{ title: ':-@', replaceWith: ':-@' },
+	          	{ title: ':-&', replaceWith: ':-&' },
+	          	{ title: ':-/', replaceWith: ':-/' },
+	          	{ title: ':-o', replaceWith: ':-o' },
+	          	{ title: 'I-)', replaceWith: 'I-)' },
+	          	{ title: '[tea]', replaceWith: '[tea]' },
+	          	{ title: '[-(', replaceWith: '[-(' },
+	          	{ title: '[pig]', replaceWith: '[pig]' },
+	          	{ title: '[shuai]', replaceWith: '[shuai]' },
+				{ title: '[bad]', replaceWith: '[bad]' },
+				{ title: '[smoke]', replaceWith: '[smoke]' },
+				{ title: '[stupid]', replaceWith: '[stupid]' },
+				{ title: '[ok]', replaceWith: '[ok]' },
+				{ title: '[thumbdown]', replaceWith: '[thumbdown]' },
+				{ title: '[kill]', replaceWith: '[kill]' },
+				{ title: '[dog]', replaceWith: '[dog]' },
+				{ title: '[zan]', replaceWith: '[zan]' },
+				{ title: '[cool]', replaceWith: '[cool]' }
+			]
+		}
+    //{name:'Preview', className:"preview", call:'preview' }
+	]
+}

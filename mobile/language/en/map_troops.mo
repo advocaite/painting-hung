@@ -1,0 +1,36 @@
+<?php
+$lang['title_views']='Map Troops';
+$lang['title_building_type']='Building Type';
+$lang['title_building_level']='Building Level';
+$lang['title_check_box']='Check';
+$lang['title_name']='Name'; 	 	 
+$lang['title_type']='Type';	 	 	 	 
+$lang['title_attack']='Attack';	 	
+$lang['title_melee_defense']='Melee Defense';	 	
+$lang['title_ranger_defense']='Ranger Defense';
+$lang['title_magic_defense']='Magic Defense';
+$lang['title_hitpoint']='Hit Point';
+$lang['title_mana']='mana';
+$lang['title_speed']='Speed';
+$lang['title_carry']='Carry';
+$lang['title_nation_id']='Nation';
+$lang['title_rs1']='Wood';
+$lang['title_rs2']='Play';
+$lang['title_rs3']='Iron';
+$lang['title_rs4']='Wheat';
+$lang['title_time_train']='Time Train';
+$lang['title_keep_hour']='Keep Hour';
+$lang['title_image']='Image';
+$lang['title_icon']='Icon';
+$lang['title_requirement']='Requirement';
+$lang['info_delete']='Info Delete';
+$lang['title_delete']='Delete';
+$lang['new']='New';
+$lang['delete']='Delete';
+$lang['save']='Save';
+$lang['check']='Check';
+$lang['reset']='Reset';
+$lang['update_button']='Update';
+$lang['update']='Update';
+$lang['ok']='OK';
+?>

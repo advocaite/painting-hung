@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card>
+<!--general_more_body1-->
+<p><b>{129}</b></p>
+<p>{list building}</p>
+<!--/general_more_body1-->
+</card> 
+</wml>

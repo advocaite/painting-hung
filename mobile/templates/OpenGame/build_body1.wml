@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card>
+<!--build_body1-->
+<p><b>{129}</b></p>
+{list building}
+<!--/build_body1-->
+<!--bottom_menu-->
+<br/><p>--------------------------</p><br/>
+<p>{Back}</p><br/>
+<p><a href="village1.php?vid={village_id}">{out_village}</a> | <a href="village2.php?vid={village_id}">{Village center}</a> | <a href="general.php">{overview}</a> | <a href="plus.php">{Asu}</a></p>
+<!--/bottom_menu-->
+</card> 
+</wml>

@@ -1,0 +1,5 @@
+<!--troop_move_status-->
+<p><b>{Troop_Movements}:</b></p>
+{rows}
+<p>--------------------------</p>
+<!--troop_move_status-->

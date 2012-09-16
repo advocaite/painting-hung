@@ -1,0 +1,17 @@
+{top_menu}
+<!--village1-->
+{troop_movement}
+<p><big><b>{resource_info}:</b></big></p>
+{resource_info_value}
+<p><b>{Production per hour}:</b></p>
+<p><img src="images/un/r/1.gif" alt="{Lumber}"></img> {Lumber}: <b>{Speed_Hour_Lumber}</b></p>
+<p><img src="images/un/r/2.gif" alt="{Clay}"></img> {Clay}: <b>{Speed_Hour_Clay}</b></p>
+<p><img src="images/un/r/3.gif" alt="{Iron}"></img> {Iron}: <b>{Speed_Hour_Iron}</b></p>
+<p><img src="images/un/r/4.gif" alt="{Crop}"></img> {Crop}: <b>{Speed_Hour_Crop}</b></p>
+<p>-----------------------------</p>
+<p><b>{level_resource}:</b></p>
+{images}
+{building_level_up_status}
+<!--/village1-->
+</card>
+</wml>

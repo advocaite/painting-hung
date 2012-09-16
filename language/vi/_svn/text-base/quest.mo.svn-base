@@ -1,0 +1,279 @@
+<?php
+if(!defined('INSIDE')){ die("attemp hacking");}
+$lang['guide']='Hướng dẫn thực hiện các nhiệm vụ trong game';
+$lang['report_title']='Bạn hãy đọc nhiệm vụ 7';
+$lang['report_content']='Phần thưởng bạn nhận được với nhiệm vụ 7';
+$lang['rs']='Tài nguyên';
+$lang['content_mess1']='Bạn được tặng';
+$lang['content_mess2']='Asu vào tài khoản. Hãy đọc hướng dẫn để sử dụng Asu hiệu quả. Chúc bạn thành công!';
+
+$lang['mission1']='<center><h3>”Chí lớn, tài cao cùng lập quốc<br />Tranh hùng, xưng bá mãi lưu danh…"</h3></center>
+<p align="justify">Việc xây dựng và bảo vệ đất nước chưa bao giờ là  một điều đơn giản… nhưng với lòng quyết tâm và tài năng của bạn, tôi tin rồi  bạn sẽ thành công. Đừng lo lắng nhiều, tôi sẽ cho bạn một vài lời khuyên… Hãy  bắt đầu từ việc xây dựng thật tốt một ngôi thành nhỏ!</p><center><img src="images/un/q/q5.jpg" /></center>';
+$lang['reward1']='';
+
+$lang['mission2']='<center><h3>Lâm trường</h3></center>
+<p align="justify">Gỗ là một tài nguyên quan trọng để xây dựng và phát triển đất nước. Ngoại thành  của thành có bốn khu rừng màu xanh. Nhấn vào một vòng tròn trong số chúng để  nâng cấp Lâm trường.</p>
+<strong>Yêu cầu:</strong><br />Xây dựng một Lâm trường <br />
+<p align="center"><img src="images/un/q/q1.jpg"/></p>';
+$lang['reward2']='<br /><p align="center"><img src="images/un/q/q1.jpg"/></p><p><em>Một sự khởi đầu tốt đẹp, không có gì khó khăn và thật sự rất đơn giản phải không?</em></p>
+<b>Phần thưởng:</b><br />';
+$lang['mission3']='<center><h3>Mỏ đá</h3></center>
+<p align="justify">Ngoài Gỗ ra, Đá cũng là một tài nguyên quan trọng không kém. Bạn có thể khai thác Đá từ các Mỏ đá trên các núi màu trắng xám ở ngoại thành.</p>
+<strong>Yêu cầu:</strong><br />Xây dựng một Mỏ đá<br/>
+<p align="center"><img src="images/un/q/q2.jpg"/></p>';
+$lang['reward3']='<br /><p align="center"><img src="images/un/q/q2.jpg"/></p><p align="justify"><em>Quá tuyệt, không có gì là không thể… Nếu bạn muốn có nhiều Đá thì cần xây thật nhiều Mỏ đá…</em></p><strong>Phần thưởng:</strong><br />';
+
+$lang['mission4']='<center><h3>Mỏ sắt</h3></center><br /><p align = "justify">Sắt thì cần thiết cho việc xây dựng quân đội. Ngoại thành của thành có bốn Mỏ sắt  màu nâu đỏ. Nhấn vào một trong số chúng để nâng cấp Mỏ sắt</p>
+<strong>Yêu cầu:</strong><br />Xây dựng một Mỏ sắt
+<p align="center"><img src="images/un/q/q3.jpg"/></p>';
+$lang['reward4']='<br /><p align="center"><img src="images/un/q/q3.jpg"/></p><p><em>Có thể bạn chưa thấy tầm quan trọng của Sắt bây giờ, nhưng càng về  sau nó thật sự cần thiết để tạo vũ khí chiến đấu cho quân đội</em> </p><b>Phần thưởng:</b><br />';
+
+$lang['mission5']='<center><h3>Đồng lúa</h3></center>
+<p>Đồng lúa là nơi cung cấp lương thực cho thành. Bạn không thể để cho  dân thành hoặc quân đội của bạn đói, họ sẽ chết! thành của bạn có sáu Đồng lúa màu  vàng. Hãy nâng cấp một trong số chúng!.</p>
+<strong>Yêu cầu:</strong><br />
+  Xây dựng một Đồng lúa</br>
+  <p align="center"><img src="images/un/q/q4.jpg"/></p>';
+$lang['reward5']='<br /><p align="center"><img src="images/un/q/q4.jpg"/></p><p><em>Quá tuyệt! Bây giờ thì đừng lo lắng về việc thiếu lương thực nữa.</em><br />
+            <em>Bạn đã biết bốn loại tài nguyên cần thiết </em></p>
+        <strong>Phần thưởng:</strong><br /></p>';
+		  
+$lang['mission6']='<center><h3>Đổi tên thành</h3></center><br />
+  Hiện tại tên thành của bạn trùng với tên của tài khoản. Bạn hãy thay đổi tên thành để thực hiện ngay để nhận đươc 5 Asu<em><br />
+    Nhấn vào “Tài khoản” ở menu phía trên, nhấn “Thay đổi” chọn “Chọn tên thành” cần  đổi… nhập tên thành mới ở ô bên cạnh rồi “Đồng ý”</em><br />
+<strong>Yêu cầu:</strong><br />
+  Thay đổi tên thành của bạn cho thật hay!<br />
+  <p align="center"><img src="images/un/q/q5.jpg"/></p>';
+$lang['reward6']='<br /><p align="center"><img src="images/un/q/q5.jpg"/></p><p><em>“Ái chà! Tên thành của bạn đã được thay đổi nghe thật đã… cố gắng bảo  vệ nó nhé!</em></p>
+<strong>Phần thưởng:</strong><br />';
+
+$lang['mission7']='<center><h3>Xếp hạng</h3></center>
+<p align="justify">Bảng xếp hạng sẽ sắp xếp vị thứ cho toàn bộ người chơi. Hãy nhấn vào nút “Xếp hạng<em>”</em> để biết vị thứ của bạn hiện tại.</p>
+<form action="" method="post">
+<strong>Yêu cầu:</strong><br />Tìm kiếm vị thứ của bạn trên bảng xếp hạng và điền vào ô sau đây: <input class="fm fm60" type="Text" id="rank" name="rank" value="" maxlength="7" size="7"><input type="hidden" name="" id="" style="visibility:hidden;"/>&nbsp;&nbsp;<input type="image" style="vertical-align:bottom" src="images/en/b/ok1.gif" value="" tabindex="3"></form><br /><img src="images/un/q/q6.jpg"/>';
+$lang['reward7']='<br /><p align="center"><img src="images/un/q/q6.jpg"/></p><p><em>Chính xác! Hãy cố gắng phát triển để nâng hạng của mình!</em></p>
+<strong>Phần thưởng:</strong><br />';
+
+$lang['mission8']='<center><h3>Báo cáo</h3></center>
+<p align="justify">Bạn phải đọc “Báo cáo” thường xuyên để theo dõi tình hình và quyết định một cách chính xác. Nút “Báo cáo” có hình con  chim bồ câu và lúc nào có “Báo cáo” mới thì nó sẽ sáng lên.</p>
+<strong>Yêu cầu:</strong><br />Hãy đọc báo cáo mới<br />
+<p align="center"><img src="images/un/q/q7.jpg"/></p>';
+$lang['reward8']='<br /><p align="center"><img src="images/un/q/q7.jpg"/></p><p><em>Nhớ theo dõi báo cáo thường xuyên. Bạn sẽ có được những thông tin  rất quan trọng.</em></p>
+<b>Phần thưởng:</b><br />';
+
+$lang['mission9']='<center><h3>Tin nhắn</h3></center>
+<p align="justify">Bạn có thể trao đổi với những người chơi  khác thông qua hệ thống tin nhắn. “Tin nhắn” có hình tờ giấy viết thư và sẽ sáng  lên nếu bạn có “Tin nhắn” mới<img src="images/un/q/q8.jpg"/></p>
+  <strong>Yêu cầu:</strong><br />Hãy đọc tin nhắn mới<br /><br />';
+$lang['reward9']='<br /><p align="center"><img src="images/un/q/q8.jpg"/></p><p><em>Bạn đã đọc nó rồi à? Tốt lắm. <br />
+      <br />
+  Bạn có thể dùng Asu để tăng sức sản xuất của các loại tài nguyên hoặc sử dụng  chúng vào các mục đích khác</em></p>
+<strong>Phần thưởng:</strong><br />';
+  
+$lang['mission10']='<center><h3>Tất cả lên cấp 1</h3></center>
+<p align="justify">Bạn thật sự cần nhiều tài nguyên hơn để phát triển. Phát triển kinh tế bây giờ là quan trọng nhất. Nào hãy bắt tay kiến thiết thôi…</p>
+      <strong>Yêu cầu:</strong><br />Hãy nâng tất cả các tài nguyên bên ngoài thành của bạn lên cấp độ 1.<br />
+	  <p align="center"><img src="images/un/q/q9.jpg"/></p>';
+$lang['reward10']='<br /><p align="center"><img src="images/un/q/q9.jpg"/></p><p><em>Tốt quá! Không lâu nữa bạn sẽ có thật nhiều tài nguyên… Hãy sử dụng tài nguyên một cách khôn ngoan và hiệu quả</em></p>
+        <b>Phần thưởng:</b><br />';
+
+$lang['mission11']='<center><h3>Thạch thất</h3></center><br />
+<span align="justify">Khởi đầu, cuộc sống ở thành thật khó khăn, xung quanh bạn có nhiều kẻ thù dòm ngó và họ tấn công liên tục.</span><br />Bạn hãy xây dựng Thạch thất để giấu tài nguyên!<br /><br />
+      <b>Yêu cầu:</b><br />Xây dựng Thạch thất <center><img src="images/un/q/q10.jpg"/></center><br />';
+$lang['reward11']='<br /><p align="center"><img src="images/un/q/q10.jpg"/></p><p><em>Ha ha! vậy là tốt rồi… có thể yên tâm ngủ ngon. Hãy nhớ giới hạn của Thạch thất, phần không giấu hết vẫn có thể bị kẻ thù chiếm mất.</em></p>
+        <b>Phần thưởng:</b><br />';
+
+$lang['mission12']='<center><h3>Dinh thự</h3></center>
+<p align="justify">Giờ cần phải thúc đẩy nhanh tốc độ xây dựng, bạn cần phải có nhiều thợ lành nghề hơn. Hãy nâng cấp Dinh thự lên cấp cao hơn, bạn sẽ có nhiều việc phải làm đó.<p><b>Yêu cầu:</b><br />Nâng cấp Dinh thự lên cấp 3 <p align="center"><img src="images/un/q/q11.jpg"/></p>';
+$lang['reward12']='<br /><p align="center"><img src="images/un/q/q11.jpg"/></p><p><em>Đây là phần thưởng của bạn, hãy xem sự thay đổi sau khi Dinh thự được nâng cấp nhé</em> </p>
+       <b>Phần thưởng:</b><br />';
+
+$lang['mission13']='<center><h3>Nhà kho</h3></center>
+<br />Đây là nới cất giữ tài nguyên khai thác, giờ cần nâng cấp sức chứa nhà kho để tích trữ tài nguyên cho việc xây dựng các công trình sau này.<br /><br />
+<b>Yêu cầu:</b><br />Xây dựng một Nhà kho <p align="center"><img src="images/un/q/q12.jpg"/></p>';
+$lang['reward13']='<br /><p align="center"><img src="images/un/q/q12.jpg"/></p><p><em>Bây giờ bạn có thể chứa nhiều tài nguyên hơn để phát triển lên các cấp cao hơn</em></p>
+        <strong>Phần thưởng:</strong><br />';
+		
+$lang['mission14']='<center><h3>Kho lương</h3></center>
+<p align="justify">Kho lương chứa được ít quá, hãy nâng cấp để tăng sức chứa để đủ lương thảo cho quân dân chứ.</p>
+<b>Yêu cầu:</b><br />Xây dựng một Kho lương <p align="center"><img src="images/un/q/q13.jpg"/></p>';
+$lang['reward14']='<br /><p align="center"><img src="images/un/q/q13.jpg"/></p><p><em>Bây giờ bạn có thể chứa lương thực nhiều hơn để đủ nuôi thành trong một thời gian dài</em></p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission15']='<center><h3>Chợ</h3></center><p align="justify">Bây giờ một số loại tài nguyên trở nên khan hiếm. Không còn thời gian chờ công nhân mang về nữa. Hãy nhanh chóng xây chợ và thiết lập quan hệ giao thương với các thành khác.</p>
+        <strong>Yêu cầu:</strong><br />Xây dựng Chợ <p align="center"><img src="images/un/q/q14.jpg"/></p>';
+$lang['reward15']='<br /><p align="center"><img src="images/un/q/q14.jpg"/></p><p><em>Được rồi đấy...Giờ bạn hãy rao bán tài nguyên nào đó để mua lại tài nguyên đang thiếu</em></p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission16']='<center><h3>Doanh trại</h3></center><br />
+<span align="justify">Kẻ thù luôn lăm le với tài nguyên trong kho của bạn, nhanh chóng xây dựng quân đội để bảo vệ nó. Để mua được lính bạn cần phải xây dựng doanh trại đã.</span><br/><br/><strong>Cần biết rằng phải xây Đại bản doanh trước mới xây được Doanh trại.</strong><br /><br />
+      <b>Yêu cầu:</b><br />Xây dựng một Doanh trại<br /><br /><span align="center"><img src="images/un/q/q15.jpg"/></span>';
+$lang['reward16']='<br /><p align="center"><img src="images/un/q/q15.jpg"/></p><p><em>Thật tốt! Hãy xây dựng một đội quân này thật hùng mạnh nhé</em> </p>
+        <b>Phần thưởng:</b><br />';
+
+$lang['mission17']='<center><h3>Đại sứ quán</h3></center>
+<p align="justify">Một lực lượng mạnh luôn là lực lượng biết đoàn kết phối hợp với nhau. Giờ là lúc bạn tham gia hay xây dựng một liên minh. Hãy xây dựng Đại sứ quán để chuẩn bị cho bước tiếp theo.</p>
+<strong>Yêu cầu:</strong><br />Xây dựng Đại sứ quán <br /><center><img src="images/un/q/q16.jpg"/></center><br />';
+$lang['reward17']='<br /><p align="center"><img src="images/un/q/q16.jpg"/></p><p><em>Giờ chỉ cần tìm và tham gia một liên minh nào đó. Ah hay bạn hãy tạo một liên minh của mình....</em></p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission18']='<center><h3>Tất cả lên cấp 2</h3></center>
+<p align="justify">Giờ các công trình cũng đâu vào đấy, hãy khai thác tài nguyên nhanh hơn để chuẩn bị xây dựng các công trình lớn và xây dựng quân đội nào. Giờ bạn hãy nâng các công trình tài nguyên lên cấp 2.<br /></p>
+      <strong>Yêu cầu:</strong><br />Hãy nâng cấp tất cả tài nguyên lên cấp 2 <br /><center><img src="images/un/q/q17.jpg"/></center>';
+$lang['reward18']='<br /><p align="center"><img src="images/un/q/q17.jpg"/></p><p align="justify">Đúng rồi..Giờ bạn đã tiến nhanh hơn rồi đấy. Hãy mau mau phát triển kinh tế và quân sự</p>
+        <strong>Phần thưởng:</strong><br />';
+		
+$lang['mission19']='<center><h3>Chiến binh dũng cảm</h3></center>
+<p align="justify">Để tập dượt cho những trận chiến kéo dài sau này, bạn cần mua những tên lính đầu tiên để xây dựng đội quân hùng mạnh. Hãy vào Doanh trại để huấn luyện chúng.</p>
+      <strong>Yêu cầu:</strong><br />Huấn luyện 2 lính bất kỳ. <br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward19']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Chúc mừng những chiến binh đầu tiên. Bây giờ bạn có thể bắt đầu cuộc chiến.</p>
+        <strong>Phần thưởng:</strong><br />';
+        
+$lang['mission20']='<center><h3>Gia nhập liên minh</h3></center>
+<p align="justify">Liên minh là sự đoàn kết bảo vệ giúp đỡ lẫn nhau. Vào liên minh bạn sẽ được sự viện trợ quân hay tài nguyên của liên minh và nhiều lợi ích khác khi liên minh tăng cấp. Bạn hãy nhanh chóng gia nhập vào một liên minh hay tự lập cho mình một liên minh (lưu ý đại sứ quán của bạn phải cấp 3).</p>
+      <strong>Yêu cầu:</strong><br />Gia nhập hay thành một lập liên minh.<br /><br /><center><img src="images/un/q/q19.jpg"/></center><br />';
+$lang['reward20']='<br /><p align="center"><img src="images/un/q/q19.jpg"/></p><p align="justify">Chúc mừng bạn đã có liên minh. Hãy cùng nhau xây dựng liên minh ngày càng hùng mạnh.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission21']='<center><h3>Lò rèn</h3></center>
+<p align="justify">Quân đội chiến đấu cần trang bị tốt giáp và vũ khí. Xây dựng lò rèn điều kiện cần để bạn phát triển các loại giáp và vũ khí mạnh.</p>
+      <strong>Yêu cầu:</strong><br />Xây dựng lò rèn<br /><br /><center><img src="images/un/q/q20.jpg"/></center><br />';
+$lang['reward21']='<br /><p align="center"><img src="images/un/q/q20.jpg"/></p><p align="justify">Bạn đã hoàn thành xây dựng lò rèn.Hãy tiếp tục nâng cấp để chế tạo được giáp và vũ khí cấp cao.</p>
+        <strong>Phần thưởng:</strong><br />';
+        
+$lang['mission22']='<center><h3>Trại ngựa</h3></center>
+<p align="justify">Hành quân lúc nhanh lúc chậm. Trong trận chiến đôi khi cần sự thần tốc. Ngựa là phương tiện phục vu tốt trong chiến trận. Trựa ngựa sẽ giúp bạn huấn luyện các loại ngựa từ ngựa do thám đến ngựa chiến.</p>
+      <strong>Yêu cầu:</strong><br />Xây dựng trại ngựa.<br /><br /><center><img src="images/un/q/q21.jpg"/></center><br />';
+$lang['reward22']='<br /><p align="center"><img src="images/un/q/q21.jpg"/></p><p align="justify">Chúc mừng bạn đã có trại ngựa. Hãy nâng cấp học viện để có thể đào tạo được ngựa.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission23']='<center><h3>Học viện</h3></center>
+<p align="justify">Để đa dạng các loại lính trong "Doanh Trại" hay "Trại ngựa".Mỗi loại lính sẽ có những thế mạnh riêng. Học viện nơi nghiên cứu các loại lính. Học viện cấp càng cao sẽ nghiên cứu được nhiều loại quân.</p>
+      <strong>Yêu cầu:</strong><br />Xây dựng học viện<br /><br /><center><img src="images/un/q/q22.jpg"/></center><br />';
+$lang['reward23']='<br /><p align="center"><img src="images/un/q/q22.jpg"/></p><p align="justify">Cuối cùng bạn cũng có được học viện. Bây giờ bạn có thể bắt đầu nghiên cứu lính.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission24']='<center><h3>Góp điểm danh vọng</h3></center>
+<p align="justify">Điểm danh vọng được tăng hằng này, mức độ tăng hay chậm tùy thuộc vào cấp bậc của công trình đặc biệt là cung điện. Đủ điểm danh vọng bạn có thể phát triển làng mới. Nhưng nó còn những cái lợi khác khi bạn góp điểm cho liên minh, liên minh tăng cấp bạn sẽ tăng điểm phòng thủ, đồng thời tăng tốc độ lính đi viện trợ giữa các thành viên</p>
+      <strong>Yêu cầu:</strong><br />Góp 100 điểm danh vọng cho liên minh<br /><br /><center><img src="images/un/q/q23.jpg"/></center><br />';
+$lang['reward24']='<br /><p align="center"><img src="images/un/q/q23.jpg"/></p><p align="justify">Bạn đã góp điểm danh vọng thành công? Hãy xem phần tin tức của liên minh.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission25']='<center><h3>Do thám</h3></center>
+<p align="justify">Để nắm rõ tình hình quân địch, trăm trận trăm thắng. Bạn hãy xây dựng cho mình những chiến binh do thám đầu tiên.Trước hết bạn phải nghiên cứu được lính do thám trong học viên, sau đó vào trại ngựa bạn sẽ đào tạo được do thám</p>
+      <strong>Yêu cầu:</strong><br />Huấn luyện lính do thám. <br /><br /><center><img src="images/un/q/q24.jpg"/></center><br />';
+$lang['reward25']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Chúc mừng những chiến binh do thám đầu tiên. Bây giờ bạn có thể bắt đầu trinh sát làng địch.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission26']='<center><h3>Trinh sát</h3></center>
+<p align="justify">Bạn đã có những lính do thám? Có thể trinh sát những làng địch. Hãy vào đại bản doanh để điều quân. Lưu ý khi do thám bạn chỉ biết được lính của địch tại nhà, còn lính đang hành quân của địch bạn không thể biết được. Và do thám của bạn cũng có thể bị phát hiện và bi giết khi địch cũng có lính do thám.</p>
+      <strong>Yêu cầu:</strong><br />Trinh sát một làng bất kỳ. <br /><br /><center><img src="images/un/q/q25.jpg"/></center><br />';
+$lang['reward26']='<br /><p align="center"><img src="images/un/q/q25.jpg"/></p><p align="justify">Chúc mừng bạn đã biết cách do thám,hãy tiếp tục do thám để có những trận đánh thành công.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission27']='<center><h3>Cối xay</h3></center>
+<p align="justify">Quân đội bạn ngày càng lớn mạnh, sức tiêu hao lúa ngày càng nhiều. Để tăng sức sản xuất lúa, xây dựng cối xây sẽ giúp bạn điều này.</p>
+      <strong>Yêu cầu:</strong><br />Xây dựng cối xay<br /><br /><center><img src="images/un/q/q26.jpg"/></center><br />';
+$lang['reward27']='<br /><p align="center"><img src="images/un/q/q26.jpg"/></p><p align="justify">Cối xay đã hoàn thành chúc mừng bạn.</p>
+        <strong>Phần thưởng:</strong><br />';        
+        
+$lang['mission28']='<center><h3>Xưởng tạc đá</h3></center>
+<p align="justify">Xây dựng ngày càng thiếu đá,xưởng tạc đá sẽ góp phần tăng năng suất khai thác đá. Mỗi cấp sẽ tăng 5% sức khai thác.</p>
+      <strong>Yêu cầu:</strong><br />Xây dựng xưởng tạc đá.<br /><br /><center><img src="images/un/q/q27.jpg"/></center><br />';
+$lang['reward28']='<br /><p align="center"><img src="images/un/q/q27.jpg"/></p><p align="justify">Thật đơn giản phải không. Hãy tiếp tục phát triển.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission29']='<center><h3>Xưởng cưa</h3></center>
+<p align="justify">Cùng một chức năng như xưởng tạc đá, xưởng cưa cũng tăng 5% sức khai thác gỗ tương ứng với từng cấp.</p>
+      <strong>Yêu cầu:</strong><br />Xây dựng xưởng cưa<br /><br /><center><img src="images/un/q/q28.jpg"/></center><br />';
+$lang['reward29']='<br /><p align="center"><img src="images/un/q/q28.jpg"/></p><p align="justify">Sức sản xuất gỗ của bạn đã tăng nhiều rồi đó. Hãy tiếp tục nâng cấp</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission30']='<center><h3>Lò luyện thép</h3></center>
+<p align="justify">Loại tài nguyên ban đầu ít sử dụng đó là sắt nhưng không kem phần quan trọng đó là chế tạo và nâng cấp vũ khí. Lò luyện thép sẽ giúp bạn tăng năng suất khai thác sắt.</p>
+      <strong>Yêu cầu:</strong><br />Xây dựng lò luyện thép<br /><br /><center><img src="images/un/q/q29.jpg"/></center><br />';
+$lang['reward30']='<br /><p align="center"><img src="images/un/q/q29.jpg"/></p><p align="justify">Chúc mừng bạn xây dựng hoàn thành lò luyện thép.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission31']='<center><h3>Lò bánh bao</h3></center>
+<p align="justify">Quân lính bạn ngày càng nhiều, lương thực ngày càng thiếu hụt. Cối xay mà bạn xây dựng trước đó chưa đủ để tiếp tục tăng năng suất khai thác lúa nuôi quân bạn phải xây dựng lò bánh bao. Mỗi cấp lò bánh bao bạn được tăng 5% sức khai thác.</p>
+      <strong>Yêu cầu:</strong><br />Xây dựng lò bánh bao.<br /><br /><center><img src="images/un/q/q30.jpg"/></center><br />';
+$lang['reward31']='<br /><p align="center"><img src="images/un/q/q30.jpg"/></p><p align="justify">Bây giờ lương thực đã có thể được đảm bảo. Hy vọng nó sẽ giúp bạn có những đạo quân đông đảo hùng mạnh.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission32']='<center><h3>Đánh đột kích</h3></center>
+<p align="justify">Một phương thức đánh trong hành quân, đánh đột kích nếu gặp địch mạnh quân bạn sẽ không phải chết hết. Số quân còn lại sẽ đánh cấp được một số tài nguyên tương ứng với sức mang vác của từng loại lính. Quân bạn cũng có thể chết hết nếu quân địch quá mạnh</p>
+      <strong>Yêu cầu:</strong><br />Hành quân đánh đột kích.<br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward32']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Chúc mừng bạn đã biết cách đánh đột kích.</p>
+        <strong>Phần thưởng:</strong><br />';
+        
+$lang['mission33']='<center><h3>Đánh tử chiến</h3></center>
+<p align="justify">Bạn đã biết cách đánh đột kích, bây giờ là đánh tử chiến. Cũng là phương thức đánh trong hành quân. Hoặc là quân là bạn chết hết hoặc quân địch chết hết. Bạn nên cân nhắc trước khi quyết định đánh tử chiến, bạn hãy do thám để xem tương quan lực lượng.</p>
+      <strong>Yêu cầu:</strong><br />Hành quân đánh tử chiến.<br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward33']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Bạn đã làm quen được với cả hai cách đánh. Bạn sẽ chọn cách đánh phù hợp.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission34']='<center><h3>Chiêu mộ tướng.</h3></center>
+<p align="justify">Tướng là một trong những loại lính mà bạn đã nghiên cứu được. Bạn hãy vào tướng phủ để chiêu mộ tướng. Tướng sẽ giúp tăng sức công thủ cho lính khi điểm tương sinh công thủ cao. Sẽ còn rất nhiều việc cần đến tướng sau này.</p>
+      <strong>Yêu cầu:</strong><br />Chiêu mộ tướng bất kỳ<br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward34']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Chúc mừng bạn đã có tướng,hãy dùng tướng một cách hợp lý.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission35']='<center><h3>Huấn luyện 500 lính.</h3></center>
+<p align="justify">Quân đội để có thể chiến thắng tùy thuộc vào cách điều binh khiển tướng của bạn nhưng số lượng cũng rất quan trong. Lực lượng quân đông đảo cũng là một lợi thế.</p>
+      <strong>Yêu cầu:</strong><br />Huấn luyện 500 lính bất kỳ. <br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward35']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Bạn đã có đủ 500 lính. Chức mừng bạn. Hãy cố gắng xây dựng cho minh một lực lượng hùng hậu hơn</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission36']='<center><h3>Đánh chiếm bộ lạc</h3></center>
+<p align="justify">Bộ lạc là một óc đảo bỏ hoang với đầy thú dữ. Bộ lạc có nhiều loại: tăng sức sản xuất lúa, sắt, đá, gỗ với các chỉ số khác nhau. Bạn đang thiếu loại tài nguyên nào, tài nguyên nào cần thiết cho thành của bạn hãy chọn bộ lạc tương ứng. Để có thể chiếm được bộ lạc bạn phải tiêu diệt hết thú hoang trong đó và đánh 3 lấn đặc biệt mỗi lần đánh phải có tướng đi cùng đồng thời tướng phủ của thành phải cấp 10. Để bảo đảm có thể chiến thắng thú hoang mạnh bạn nên có từ 500 - 1000 lính.</p>
+      <strong>Yêu cầu:</strong><br />Chiếm một bộ lạc bất kỳ<br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward36']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Chúc mừng bạn có bộ lạc đầu tiên. Tiếp tục nâng cấp tướng phủ cấp 15, 20 để có thể chiếm các bộ lạc tiếp theo.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission37']='<center><h3>Tướng phủ</h3></center>
+<p align="justify">Tướng phủ nơi chiêu mộ tướng và quản lý tướng. Mọi anh hùng sẽ hội tụ về đây bạn có thể chiêu mộ để trở thành tướng của làng mình. Tướng phủ là điều kiện để bạn có thể chiếm bộ lạc, mỗi làng sẽ có thể chiếm 3 bộ lạc tương ứng với các cấp của tướng phủ đó là 10, 15, 10</p>
+      <strong>Yêu cầu:</strong><br />Xây dựng tướng phủ<br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward37']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Tướng phủ đã xây xong bạn có thể bắt đầu chiêu mộ tướng.</p>
+        <strong>Phần thưởng:</strong><br />';
+        
+$lang['mission38']='<center><h3>Cung điện.</h3></center>
+<p align="justify">Cung điện nơi họp bàn chiến sự, bạn đã biết ngoài ra cung điện còn giúp bạn đào tạo thợ để xây dựng làng mới hay tạo thuyết khách để chiếm làng người khác. Thợ hay thuyết khách với cung điện cấp 10 và 20 bạn chỉ đào tạo một trong 2. Cung điện nhằm tăng lòng tin của dân, cũng như điểm danh vọng.</p>
+      <strong>Yêu cầu:</strong><br />Xây dựng cung điện.<br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward38']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Chúc mừng bạn đã có cung điện, nâng cấp lên cấp 10 bạn có thể đào tạo thợ hoặc thuyết khách</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission39']='<center><h3>Vận chuyển</h3></center>
+<p align="justify">Lương thực của bạn đang dồi dào bạn muốn giúp đở một ai đó. Bạn có thể vận chuyển tài nguyên cho người đó bằng cách vào chợ để vận chuyển.</p>
+      <strong>Yêu cầu:</strong><br />Vận chuyển tài nguyên cho một làng bất kỳ<br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward39']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Bạn đã thực hiện vận chuyển thành công.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission40']='<center><h3>Mua bán tài nguyên</h3></center>
+<p align="justify">Tài nguyên bạn thiếu, không ai giúp đở bạn. Hãy vào chợ mua tài nguyên bằng chính ASU của mình. Hay khi bạn dư tài nguyên bạn muốn có ASU để làm việc khác bạn cũng có thể vào chợ để bán nó.</p>
+      <strong>Yêu cầu:</strong><br />Thực hiện một giao dịch mua bán tài nguyên.<br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward40']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Việc mua bán đã thành công, bạn đã biết giao thương rồi đó.</p>
+        <strong>Phần thưởng:</strong><br />';
+		
+$lang['mission41']='<center><h3>Trao đổi tài nguyên</h3></center>
+<p align="justify">Kênh tế tài nguyên của bạn không đều, bạn thiếu tài nguyên này nhưng lại thừa tài nguyên khác. Lúc này trao đổi tài nguyên là cần thiết, bạn vào chợ để rao bán tài nguyên này để mua tài nguyên khác.</p>
+      <strong>Yêu cầu:</strong><br />Thực hiện một giao dịch trao đổi tài nguyên.<br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward41']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Bạn đã thực hiện được, thật dể dàng phải không.</p>
+        <strong>Phần thưởng:</strong><br />';
+		
+$lang['mission42']='<center><h3>Hoán đổi</h3></center>
+<p align="justify">Hoán đổi cũng là một cách giao dịch, nhưng là giao dịch với NPC. Tài nguyên các loại của bạn sẽ được cân bằng chỉ trong tích tắc ngược lại bạn sẽ bị tốn ASU.</p>
+      <strong>Yêu cầu:</strong><br />Thực hiện hoán đổi<br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward42']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Chúc mừng bạn đã thực hiện thành công. Hãy giao dịch trong những lúc cần thiết</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission43']='<center><h3>Công xưởng</h3></center>
+<p align="justify">Đánh trận không chỉ binh lính đánh nhau, mà phải có lúc công thành phá hủy công trình của người khác. Lúc này bạn cần phải có công xưởng chế tạo các loại binh chủng có thể phá được công trình hay cả tường thành.</p>
+      <strong>Yêu cầu:</strong><br />Xây dựng công xưởng<br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward43']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Công xưởng đã xây xong còn chần chừ gì mà không nâng cấp để xây dựng các xe bắn đá.</p>
+        <strong>Phần thưởng:</strong><br />';
+
+$lang['mission44']='<center><h3>Xe pháo</h3></center>
+<p align="justify">Xe pháo là loại xe có thể phá hủy cá loại công trình. Khi đi đánh chiếm làng của người khác bạn phải dùng để phá hủy cung điện.</p>
+      <strong>Yêu cầu:</strong><br />Huấn luyện 2 xe pháo bất kỳ<br /><br /><center><img src="images/un/q/q18.jpg"/></center><br />';
+$lang['reward44']='<br /><p align="center"><img src="images/un/q/q18.jpg"/></p><p align="justify">Chúc mừng bạn đã có xe pháo</p>
+        <strong>Phần thưởng:</strong><br />';																        
+?>

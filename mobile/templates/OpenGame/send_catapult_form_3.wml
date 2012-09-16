@@ -1,0 +1,56 @@
+<!--send_catapult_form_3-->
+<p>{Target}: {village_defend_name} ({village_defend_x}|{village_defend_y})</p>
+<p>{Player}: {player_defend_name}</p>
+<p>{village_attack_name} {send_type_string} {village_defend_name} {at} {time_at} {o_clock} {date_at}</p>
+{rows}
+<p><img src="images/icon/hero4.ico.gif"/> {title12}: {t12}</p><br/>
+<p>{building}: <select name="kata">
+	<option value="-2">{Random}</option>
+    <option value="1">{Woodcutter}</option>
+    <option value="2">{Cropland}</option>
+    <option value="3">{Iron_Mine}</option>
+    <option value="4">{Clay_Pit}</option>
+    <option value="5">{Grain_Mill}</option>
+    <option value="6">{Sawmill}</option>
+    <option value="7">{Brickyard}</option>
+    <option value="8">{Iron_Foundry}</option>
+    <option value="10">{Warehouse}</option>
+    <option value="11">{Granary}</option>
+    <option value="12">{Main_Building}</option>
+    <option value="13">{Marketplace}</option>
+    <option value="14">{Embassy}</option>
+    <option value="18">{Palace}</option>
+    <option value="20">{Trade_Office}</option>
+    <option value="24">{Blacksmith}</option>
+    <option value="27">{Rally_Point}</option>
+    <option value="28">{Barracks}</option>
+    <option value="29">{Stable}</option>
+    <option value="30">{Workshop}</option>
+    <option value="31">{Academy}</option>
+    <option value="35">{Hero_Mansion}</option>
+    <option value="36">{City_Wall}</option>
+	<option value="37">{World_wonder}</option>
+	</select>
+</p>
+<p>{(will be attacked by catapult(s))}</p>
+<p>
+ <anchor>{Accept}<go method="get" href="general_more.php">
+<postfield name="id" value="{id}"></postfield>
+<postfield name="t" value="1"></postfield>
+<postfield name="vdid" value="{village_defend_id}"></postfield>
+<postfield name="t1" value="$(t1)"></postfield>
+<postfield name="t2" value="$(t2)"></postfield>
+<postfield name="t3" value="$(t3)"></postfield>
+<postfield name="t4" value="$(t4)"></postfield>
+<postfield name="t5" value="$(t5)"></postfield>
+<postfield name="t6" value="$(t6)"></postfield>
+<postfield name="t7" value="$(t7)"></postfield>
+<postfield name="t8" value="$(t8)"></postfield>
+<postfield name="t9" value="$(t9)"></postfield>
+<postfield name="t10" value="$(t10)"></postfield>
+<postfield name="t11" value="$(t11)"></postfield>
+<postfield name="t12" value="$(t12)"></postfield>
+<postfield name="st" value="{send_type}"></postfield>
+<postfield name="kata" value="$(kata)"></postfield>
+</go></anchor></p>
+ <!--/send_catapult_form_3-->

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+					<note>
+					<content><![CDATA[<p><span style=" font-size:18px;"><strong>Trại ngựa </strong></span><br /><br /></p>
+<table style="font-size:1em;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="max-width:200px;" valign="top"><img src="images/buildings/gid20.png" alt="" /></td>
+<td style="padding:0 10px" align="justify" valign="top"><strong>Y&ecirc;u cầu:</strong> <a href="viewbuilding.php?id=13">L&ograve; r&egrave;n </a> Cấp độ 3, <a href="viewbuilding.php?id=21">Học viện </a> Cấp độ 5.
+<p>&nbsp;</p>
+<p>Nơi  c&aacute;c kỵ binh được huấn luyện. Cũng như trại l&iacute;nh, với cấp độ cao hơn tốc độ huấn  luyện sẽ nhanh hơn.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="tbg" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td colspan="8">Chi ph&iacute; cho l&iacute;nh của qu&acirc;n Arabia</td>
+</tr>
+<tr class="cbg1">
+<td>Cấp độ</td>
+<td colspan="2">&nbsp;</td>
+<td><img class="rimg" src="images/misc/go.gif" alt="Lumber" /></td>
+<td><img class="rimg" src="images/misc/da.gif" alt="Clay" /></td>
+<td><img class="rimg" src="images/misc/sat.gif" alt="Sắt" /></td>
+<td><img class="rimg" src="images/misc/lua.gif" alt="L&uacute;a" /></td>
+<td><img class="rimg" src="images/misc/tieuhao.gif" alt="Upkeep" /></td>
+</tr>
+<tr>
+<td>1</td>
+<td style="text-align: center; width: 25px;" width="33"><img class="timg" src="images/troops/tid8.ico" alt="Equites Legati" /></td>
+<td style="width: 135px;" width="137">
+<div class="style6"><span class="f9" style="white-space: nowrap;"><strong>Th&aacute;m binh</strong></span><br /><br /></div>
+</td>
+<td>140</td>
+<td>160</td>
+<td>90</td>
+<td>40</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5</td>
+<td style="text-align: center; width: 25px;"><img class="timg" src="images/troops/tid6.ico" alt="Equites Imperatoris" /></td>
+<td style="width: 135px;">
+<div class="style6"><span class="f9" style="white-space: nowrap;"><strong>Đao kỵ</strong></span><br /><br /></div>
+</td>
+<td>480</td>
+<td>500</td>
+<td>320</td>
+<td>100</td>
+<td>2</td>
+</tr>
+<tr>
+<td>10</td>
+<td style="text-align: center; width: 25px;"><img class="timg" src="images/troops/tid7.ico" alt="Equies Caesaris" /></td>
+<td style="width: 135px;">
+<div class="style6"><strong>Trường thương kỵ</strong></div>
+</td>
+<td>570</td>
+<td>630</td>
+<td>780</td>
+<td>180</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<p><br /> <br /></p>
+<table class="tbg" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td colspan="8">Chi ph&iacute; cho l&iacute;nh của qu&acirc;n Sunda</td>
+</tr>
+<tr class="cbg1">
+<td width="149">Cấp độ</td>
+<td colspan="2"></td>
+<td><img class="rimg" src="images/misc/go.gif" alt="Lumber" /></td>
+<td><img class="rimg" src="images/misc/da.gif" alt="Clay" /></td>
+<td><img class="rimg" src="images/misc/sat.gif" alt="Sắt" /></td>
+<td><img class="rimg" src="images/misc/lua.gif" alt="L&uacute;a" /></td>
+<td width="77"><img class="rimg" src="images/misc/tieuhao.gif" alt="Upkeep" /></td>
+</tr>
+<tr>
+<td>1</td>
+<td style="text-align: center; width: 25px;" width="43"><img class="timg" src="images/troops/tid30.ico" alt="Phathfinder" /></td>
+<td class="style6 s7" style="width: 135px;" width="140"><strong>Truyền qu&acirc;n </strong></td>
+<td>160</td>
+<td>140</td>
+<td>100</td>
+<td>50</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5</td>
+<td style="text-align: center; width: 25px;"><img class="timg" src="images/troops/tid28.ico" alt="Theutates Thunder" /></td>
+<td class="s7" style="width: 135px;"><span class="s7" style="width: 135px;"><span class="style6 f9" style="white-space: nowrap;"><strong>L&ocirc;i đao kỵ</strong></span><br /><br /></span></td>
+<td>360</td>
+<td>450</td>
+<td>230</td>
+<td>100</td>
+<td>2</td>
+</tr>
+<tr>
+<td>10</td>
+<td style="text-align: center; width: 25px;"><img class="timg" src="images/troops/tid29.ico" alt="Druidrider" /></td>
+<td class="style6 s7" style="width: 135px;"><strong>Trường sơn m&atilde; </strong></td>
+<td>500</td>
+<td>670</td>
+<td>620</td>
+<td>170</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
+<table class="tbg" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td colspan="8">Chi ph&iacute; cho l&iacute;nh của qu&acirc;n Mongo</td>
+</tr>
+<tr class="cbg1">
+<td width="149">Cấp độ</td>
+<td colspan="2"></td>
+<td><img class="rimg" src="images/misc/go.gif" alt="Lumber" /></td>
+<td><img class="rimg" src="images/misc/da.gif" alt="Clay" /></td>
+<td><img class="rimg" src="images/misc/sat.gif" alt="Sắt" /></td>
+<td><img class="rimg" src="images/misc/lua.gif" alt="L&uacute;a" /></td>
+<td width="77"><img class="rimg" src="images/misc/tieuhao.gif" alt="Upkeep" /></td>
+</tr>
+<tr>
+<td>5</td>
+<td style="text-align: center; width: 25px;" width="43"><img class="timg" src="images/troops/tid19.ico" alt="Phathfinder" /></td>
+<td class="s7" style="width: 135px;" width="140"><span class="style6"><strong>Th&aacute;m qu&acirc;n </strong></span><br /><br /></td>
+<td>170</td>
+<td>150</td>
+<td>80</td>
+<td>40</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td style="text-align: center; width: 25px;"><img class="timg" src="images/troops/tid16.ico" alt="Paladin" /></td>
+<td class="s7" style="width: 135px;"><span class="style6"><strong>Hỏa th&acirc;n tiễn</strong></span><br /><br /></td>
+<td>360</td>
+<td>330</td>
+<td>280</td>
+<td>70</td>
+<td>2</td>
+</tr>
+<tr>
+<td>10</td>
+<td style="text-align: center; width: 25px;"><img class="timg" src="images/troops/tid17.ico" alt="Phathfinder" /></td>
+<td class="s7" style="width: 135px;"><span class="style6"><strong>Long đao kỵ </strong></span><br /><br /></td>
+<td>370</td>
+<td>280</td>
+<td>290</td>
+<td>100</td>
+<td>3</td>
+</tr>
+<tr>
+<td>10</td>
+<td style="text-align: center; width: 25px;"><img class="timg" src="images/troops/tid18.ico" alt="Teutonic Knight" /></td>
+<td class="s7" style="width: 135px;"><span class="style6"><strong>Đoạn hồn kỵ</strong></span><br /><br /></td>
+<td>450</td>
+<td>515</td>
+<td>480</td>
+<td>140</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<p><br /> <br /> <strong>Cấp độ c&ocirc;ng tr&igrave;nh </strong></p>
+<table class="tbg" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td>Cấp độ</td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/go.gif" alt="Lumber" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/da.gif" alt="Clay" /></td>
+<td bgcolor="#efefef"><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/sat.gif" alt="Sắt" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/lua.gif" alt="L&uacute;a" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/tieuhao.gif" alt="L&uacute;a usage" /></td>
+<td>DV</td>
+<td>% Thời gian huấn luyện</td>
+</tr>
+<tr>
+<td>1</td>
+<td height="17" align="right">260</td>
+<td align="right">140</td>
+<td align="right">220</td>
+<td align="right">100</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>2</td>
+<td height="17" align="right">333</td>
+<td align="right">179</td>
+<td align="right">282</td>
+<td align="right">128</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>90%</td>
+</tr>
+<tr>
+<td>3</td>
+<td height="17" align="right">426</td>
+<td align="right">229</td>
+<td align="right">360</td>
+<td align="right">164</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td>81%</td>
+</tr>
+<tr>
+<td>4</td>
+<td height="17" align="right">545</td>
+<td align="right">294</td>
+<td align="right">461</td>
+<td align="right">210</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td>73%</td>
+</tr>
+<tr>
+<td>5</td>
+<td height="17" align="right">698</td>
+<td align="right">376</td>
+<td align="right">591</td>
+<td align="right">268</td>
+<td align="right">2</td>
+<td align="right">2</td>
+<td>66%</td>
+</tr>
+<tr>
+<td>6</td>
+<td height="17" align="right">893</td>
+<td align="right">481</td>
+<td align="right">756</td>
+<td align="right">344</td>
+<td align="right">2</td>
+<td align="right">2</td>
+<td>59%</td>
+</tr>
+<tr>
+<td>7</td>
+<td height="17" align="right">1143</td>
+<td align="right">616</td>
+<td align="right">968</td>
+<td align="right">440</td>
+<td align="right">2</td>
+<td align="right">3</td>
+<td>53%</td>
+</tr>
+<tr>
+<td>8</td>
+<td height="17" align="right">1464</td>
+<td align="right">788</td>
+<td align="right">1238</td>
+<td align="right">563</td>
+<td align="right">3</td>
+<td align="right">3</td>
+<td>48%</td>
+</tr>
+<tr>
+<td>9</td>
+<td height="17" align="right">1873</td>
+<td align="right">1009</td>
+<td align="right">1585</td>
+<td align="right">721</td>
+<td align="right">3</td>
+<td align="right">4</td>
+<td>43%</td>
+</tr>
+<tr>
+<td>10</td>
+<td height="17" align="right">2398</td>
+<td align="right">1291</td>
+<td align="right">2029</td>
+<td align="right">922</td>
+<td align="right">3</td>
+<td align="right">6</td>
+<td>39%</td>
+</tr>
+<tr>
+<td>11</td>
+<td height="17" align="right">3070</td>
+<td align="right">1653</td>
+<td align="right">2597</td>
+<td align="right">1181</td>
+<td align="right">3</td>
+<td align="right">7</td>
+<td>35%</td>
+</tr>
+<tr>
+<td>12</td>
+<td height="17" align="right">3929</td>
+<td align="right">2116</td>
+<td align="right">3325</td>
+<td align="right">1511</td>
+<td align="right">3</td>
+<td align="right">9</td>
+<td>31%</td>
+</tr>
+<tr>
+<td>13</td>
+<td height="17" align="right">5029</td>
+<td align="right">2708</td>
+<td align="right">4255</td>
+<td align="right">1934</td>
+<td align="right">4</td>
+<td align="right">11</td>
+<td>28%</td>
+</tr>
+<tr>
+<td>14</td>
+<td height="17" align="right">6437</td>
+<td align="right">3466</td>
+<td align="right">5447</td>
+<td align="right">2476</td>
+<td align="right">4</td>
+<td align="right">14</td>
+<td>25%</td>
+</tr>
+<tr>
+<td>15</td>
+<td height="17" align="right">8240</td>
+<td align="right">4437</td>
+<td align="right">6972</td>
+<td align="right">3169</td>
+<td align="right">4</td>
+<td align="right">17</td>
+<td>23%</td>
+</tr>
+<tr>
+<td>16</td>
+<td height="17" align="right">10547</td>
+<td align="right">5679</td>
+<td align="right">8924</td>
+<td align="right">4056</td>
+<td align="right">4</td>
+<td align="right">20</td>
+<td>21%</td>
+</tr>
+<tr>
+<td>17</td>
+<td height="17" align="right">13500</td>
+<td align="right">7269</td>
+<td align="right">11423</td>
+<td align="right">5192</td>
+<td align="right">4</td>
+<td align="right">24</td>
+<td>19%</td>
+</tr>
+<tr>
+<td>18</td>
+<td height="17" align="right">17280</td>
+<td align="right">9305</td>
+<td align="right">14622</td>
+<td align="right">6646</td>
+<td align="right">5</td>
+<td align="right">28</td>
+<td>17%</td>
+</tr>
+<tr>
+<td>19</td>
+<td height="17" align="right">22118</td>
+<td align="right">11910</td>
+<td align="right">18716</td>
+<td align="right">8507</td>
+<td align="right">5</td>
+<td align="right">33</td>
+<td>15%</td>
+</tr>
+<tr>
+<td>20</td>
+<td height="17" align="right">28311</td>
+<td align="right">15245</td>
+<td align="right">23956</td>
+<td align="right">10889</td>
+<td align="right">5</td>
+<td align="right">38</td>
+<td>14%</td>
+</tr>
+<tr>
+<td style="padding: 0px; height: 2px;" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td>Tổng</td>
+<td><strong>131470 </strong></td>
+<td><strong>69190</strong></td>
+<td><strong>108727</strong></td>
+<td><strong>49421</strong></td>
+<td><strong>62</strong></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>]]></content>
+					</note>

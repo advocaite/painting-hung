@@ -1,0 +1,6 @@
+<!--improve_status-->
+<p>{In development}:</p>
+<br/><p><img src="{icon}.gif" alt="icon"/><b>{troop_name}</b>({level} {item_level})</p><br/>
+<p>{finished}:</p>
+<p>{time_at} {date_at}</p><br/>
+<!--/improve_weapon_body-->

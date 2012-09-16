@@ -1,0 +1,1 @@
+{title} <a href="village_map.php?a={x}&b={y}" >{name}</a>

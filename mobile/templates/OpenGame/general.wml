@@ -1,0 +1,13 @@
+{top_menu}
+<!--general-->
+<p><b>{Train update send troop}</b></p>
+{image}
+<p>--------------------------</p>
+<p><b>{Troop in village}</b></p>
+{list_troop_in_village}
+<p>--------------------------</p>
+<p><b>{Troop reinforce}</b></p>
+{list_troop_reinforce}
+<!--/general-->
+</card>
+</wml>

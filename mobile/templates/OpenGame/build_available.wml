@@ -1,0 +1,5 @@
+<!--build_availiable-->
+<p>{name}</p>
+<p>{content}</p>{134}:{dk}
+<p><img src="{image}"></p></p>
+<!--build_availiable-->

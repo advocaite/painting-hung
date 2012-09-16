@@ -1,0 +1,7 @@
+<!--research_status_row-->
+<p>{In Researching}:</p><br/>
+<p><b><img src="{icon}.gif" alt="icon"/>{name}</b></p><br/>
+<!--<p><a href="#">{name}</a></p>
+<p>timer{timer} : {time_left}</p>-->
+<p>{finished}:<br/>{time_finished}.</p><br/>
+<!--/research_status_row-->

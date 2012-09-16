@@ -1,0 +1,10 @@
+<!--general_build_new-->
+<p><b>{name}</b></p>
+<p><img src='images/un/r/1.gif' alt=''></img>{rs1} | 
+<img src='images/un/r/2.gif' alt=''></img>{rs2} |
+<img src='images/un/r/3.gif' alt=''></img>{rs3} | 
+<img src='images/un/r/4.gif' alt=''></img>{rs4} | 
+<img src='images/un/r/5.gif' alt=''></img>{need_worker} | 
+<img src='images/un/a/clock.gif' alt=''> </img>{cost_time}</p>
+<p>{link}</p>
+<!--/general_build_new-->

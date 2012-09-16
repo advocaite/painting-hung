@@ -1,0 +1,37 @@
+<!--send_troop1-->
+<p>{Target}: {name_target} ({x_target}|{y_target})</p>
+<p>{Player}: {username_target}</p>
+<p>{name} {type} {name_target} {at} {end_time} {clock}</p>
+<p><img src="{img_troop1}" title="{name_troop1}" /> {1_}</p>
+<p><img src="{img_troop2}" title="{name_troop2}" /> {2_}</p>
+<p><img src="{img_troop3}" title="{name_troop3}" /> {3_}</p>
+<p><img src="{img_troop4}" title="{name_troop4}" /> {4_}</p>
+<p><img src="{img_troop5}" title="{name_troop5}" /> {5_}</p>
+<p><img src="{img_troop6}" title="{name_troop6}" /> {6_}</p>
+<p><img src="{img_troop7}" title="{name_troop7}" /> {7_}</p>
+<p><img src="{img_troop8}" title="{name_troop8}" /> {8_}</p>
+<p><img src="{img_troop9}" title="{name_troop9}" /> {9_}</p>
+<p><img src="{img_troop10}" title="{name_troop10}" /> {10_}</p>
+<p><img src="{img_troop11}" title="{name_troop11}" /> {11_}</p>
+<p>
+ <anchor>{Accept} 
+  <go method="post"> 
+  	<postfield name="id" value="$({id})"></postfield>
+    <postfield name="c_" value="$({c_})"></postfield>
+    <postfield name="duration" value="$({duration})"></postfield>
+    <postfield name="kid" value="426711"></postfield>
+    <postfield name="t1" value="$({1_})"></postfield>
+    <postfield name="t2" value="$({2_})"></postfield>
+    <postfield name="t3" value="$({3_})"></postfield>
+    <postfield name="t4" value="$({4_})"></postfield>
+    <postfield name="t5" value="$({5_})"></postfield>
+    <postfield name="t6" value="$({6_})"></postfield>
+    <postfield name="t7" value="$({7_})"></postfield>
+    <postfield name="t8" value="$({8_})"></postfield>
+    <postfield name="t9" value="$({9_})"></postfield>
+    <postfield name="t10" value="$({10_})"></postfield>
+    <postfield name="t11" value="$({11_})"></postfield>
+  </go>
+ </anchor>
+ <!--send_troop1-->
+</p>

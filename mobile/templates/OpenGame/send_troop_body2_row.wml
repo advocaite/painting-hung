@@ -1,0 +1,3 @@
+<!--send_troop_body2_row-->
+<p><img src="{icon}.gif"/> {title}: {a}</p><br/>
+<!--/send_troop_body2_row-->

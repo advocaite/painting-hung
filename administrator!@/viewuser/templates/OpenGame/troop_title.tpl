@@ -1,0 +1,1 @@
+<p class="b">{title}</p>

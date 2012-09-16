@@ -1,0 +1,10 @@
+<!--train_hero_table-->
+<p>{title_column_intraining}:</p><br/>
+<p><img src="{icon}.gif" alt="icon"/><b>{name} {level}</b></p><br/>
+<p>{title_column_finished}:</p><br/>
+<p>{time_finished} {date_finished}</p>
+<p>------------------------</p>
+<!--/train_hero_table-->
+
+
+

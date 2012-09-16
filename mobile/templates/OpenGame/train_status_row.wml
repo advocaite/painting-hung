@@ -1,0 +1,6 @@
+<!--train_status_row-->
+<br/><p>{title_column_intraining}:</p>
+<br/><p><b>{sum} {name}</b></p>
+<p>{title_column_finished}:</p>
+<p>{time_finished} {date_finished}</p>
+<!--/train_status_row-->

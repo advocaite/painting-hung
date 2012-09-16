@@ -1,0 +1,39 @@
+<?php
+if(!defined('INSIDE')){ die("attemp hacking");}
+$lang['attack_site'] = 'Bên tấn công';
+$lang['defense_site'] = 'Bên phòng thủ';
+$lang['attack type'] = 'Kiểu đánh';
+$lang['normal'] = 'Tử chiến';
+$lang['raid'] = 'Đột kích';
+$lang['Nature'] = 'Quoái thú';
+$lang['Oases'] = 'Bộ lạc';
+$lang['hero'] = 'Tướng';
+$lang['Troops'] = 'Quân đội';
+$lang['villages'] = 'Thành';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+?>

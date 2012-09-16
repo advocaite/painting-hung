@@ -1,0 +1,12 @@
+<!--cung_menh_body-->
+<p>{thong_tin_cung_menh}</p>
+<p><select name="choncungmenh" title="Chọn cung mệnh">            	
+				<option value="1">Kim</option>
+				<option value="2">Thủy</option>
+				<option value="3">Mộc</option>
+                <option value="4">Hỏa</option>
+                <option value="5">Thổ</option>
+                </select></p>
+<p><anchor>Đồng ý<go href="build.php?id={id}&amp;t=1" method="post"/>
+<postfield name="choncungmenh" value="$(choncungmenh)"></postfield></anchor></p>
+<!--/cung_menh_body-->

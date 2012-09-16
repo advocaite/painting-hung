@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.3//EN" "http://www.wapforum.org/DTD/wml13.dtd">
+<wml>
+<card title="">
+<!--send_troop_home-->
+<p>{Target}: {village_attack_name} ({village_attack_x}|{village_attack_y})</p>
+<p>{Player}: {player_attack_name}</p>
+<p>{village_name} {send_type_string} {village_defend_name} {at} {time_at} {o_clock} {date_at}</p>
+<p><img src="{icon1}" title="{title1}"/> {t1}</p>
+<p><img src="{icon2}" title="{title2}"/> {t2}</p>
+<p><img src="{icon3}" title="{title3}"/> {t3}</p>
+<p><img src="{icon4}" title="{title4}"/> {t4}</p>
+<p><img src="{icon5}" title="{title5}"/> {t5}</p>
+<p><img src="{icon6}" title="{title6}"/> {t6}</p>
+<p><img src="{icon7}" title="{title7}"/> {t7}</p>
+<p><img src="{icon8}" title="{title8}"/> {t8}</p>
+<p><img src="{icon9}" title="{title9}"/> {t9}</p>
+<p><img src="{icon10}" title="{title10}"/> {t10}</p>
+<p><img src="{icon11}" title="{title11}"/> {t11}</p>
+<p><img src="images/icon/hero4.ico" title="{title12}" /> {t12}</p>
+<p>
+ <anchor>{Accept}
+  <go method="post" href="general_more.php"> 
+<postfield name="id" value="{id}"></postfield>
+<postfield name="t" value="{task}"></postfield>
+  <postfield name="aid" value="$({attack_id})"></postfield>
+  </go>
+ </anchor>
+</p>
+<!--/send_troop_home-->
+</card>
+</wml>

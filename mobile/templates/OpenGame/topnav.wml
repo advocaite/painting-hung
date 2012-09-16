@@ -1,0 +1,8 @@
+<!--topnav-->
+<p><img src="images/un/r/1.gif" alt="{Lumber}"></img> {rs1} / {capacity_123}</p>
+<p><img src="images/un/r/2.gif" alt="{Clay}"></img> {rs2} / {capacity_123}</p>
+<p><img src="images/un/r/3.gif" alt="{Iron}"></img> {rs3} / {capacity_123}</p>
+<p><img src="images/un/r/4.gif" alt="{Crop}"></img> {rs4} / {capacity_4}</p>
+<p><img src="images/un/r/5.gif" alt="{Crops}"></img> {sum_cun} / {speed_increase_crop}</p>
+<p>-----------------------------</p>
+<!--/topnav-->

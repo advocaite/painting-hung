@@ -1,0 +1,38 @@
+<?php
+if(!defined('INSIDE')){ die("attemp hacking");}
+$lang['Content']='Chi tiết';	
+$lang['No']='Stt';
+$lang['Username']='Tài Khoản';	
+$lang['Lumbers']='Gỗ';	
+$lang['Clays']='Đá';	
+$lang['Irons']='Sắt';	
+$lang['Crops']='Lúa';	
+$lang['Attacks']='Tấn công';	
+$lang['Defences']='Phòng thủ';	
+$lang['Builds']='Nhiều CT';
+$lang['Tb1s']='TBài 1';
+$lang['Tb2s']='TBài 2';
+$lang['Tb3s']='TBài 3';
+$lang['Smss']='SMS';
+$lang['Asus']='Asu';
+$lang['give']='Tặng';
+$lang['Total']='Tổng';
+$lang['Select']='Chọn lựa';
+$lang['Date']='Ngày';
+$lang['Gold log']='Nhật Ký';
+$lang['Give gold']='Tặng Asus';
+$lang['Slogan']='Tranh Hùng';	
+$lang['All']='All';
+$lang['Special']='Theo Nhóm';	
+$lang['Select ALL'] = 'Chọn tất cả';
+$lang['Un Select ALL'] = 'Bỏ chọn tất cả';
+$lang['Delete'] = 'Xóa';
+$lang['Total record'] = 'Tổng';
+$lang['Page'] = 'Trang';
+$lang['Of'] = '/';
+$lang['Gold'] = 'Asu';
+$lang['Keywords'] = ' Tìm theo tên tài khoản';
+$lang['Search'] = 'Tìm kiếm';
+$lang['Pack gold']='Gói Asu';
+$lang['Null']='Rỗng';
+?>

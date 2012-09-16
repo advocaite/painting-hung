@@ -1,0 +1,4 @@
+<!--improve_body-->
+<p><a href="general_more.php?id={id}">{weapon}</a> | <a href="general_more.php?id={id}&amp;t=1">{armour}</a></p><br/>
+{task_content}<br/>
+<!--/improve_body-->

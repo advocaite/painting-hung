@@ -1,0 +1,11 @@
+<!--built_new-->
+<p><b>{name} :</b></p><br/>
+<p><img src='images/un/r/1.gif' alt='icon'></img>{rs1} | 
+<img src='images/un/r/2.gif' alt='icon'></img>{rs2} |
+<img src='images/un/r/3.gif' alt='icon'></img>{rs3} |<br/> 
+<img src='images/un/r/4.gif' alt='icon'></img>{rs4} | 
+<img src='images/un/r/5.gif' alt='icon'></img>{need_worker} | 
+<img src='images/un/a/clock.gif' alt='icon'> </img>{cost_time}</p><br/>
+<p>{link}</p>
+<p>------------------------------</p><br/>
+<!--/built_new-->

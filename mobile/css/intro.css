@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body {top no-repeat; font-family:Verdana, Arial, Helvetica, sans-serif; background-color:#eef3fa; padding:0; margin:0}
+img {border:none;}
+.main {width:900px; background:url(../images/en/intro/bg.jpg) top left no-repeat; height:580px; margin:0 auto;}
+.text1 {position:relative; font-size:14px; font-weight:bold; left:350px; top:200px; width:330px;}
+.text2 {font-size:12px; color:#ed1c24; position:relative;}
+.reg {
+	position:relative;
+	left:687px;
+	top:-30px;
+	float:left
+}
+.award {position:relative; left:165px; top:210px; float:left}
+.event {position:relative; left:140px; float:left; top:210px; height:140px; width:382px;}
+.event1, .event2 {float:left; background:url(../images/en/intro/event1.png) no-repeat; height:52px; width:382px;}
+.event1, .event2 {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:0.9em; font-weight:bold; padding:17px 0 0 30px;}
+.event1 a, .event2 a {text-decoration:none; color:#fff;}
+.event1 a:hover, .event2 a:hover{color:#fcb006}
+.info, .guide, .privacy {text-align:center; background:url(../images/en/intro/guide.png) top no-repeat; padding-top:19px; width:171px; float:left; height:40px;}
+.boxright {height:186px; float:left; width:171px; position:relative; left:140px; top:130px;}
+/*.info {top:158px;}
+.guide {top:150px;}
+.privacy {top:122px;}
+*/.info a, .guide a, .privacy a { font-size:12px; font-weight:bold; color:#354344; text-decoration:none;}
+.info a:hover, .guide a:hover, .privacy a:hover { font-size:12px; font-weight:bold; color:#dc3535; text-decoration:none;}

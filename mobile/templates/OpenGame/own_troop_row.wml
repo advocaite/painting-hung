@@ -1,0 +1,3 @@
+<!--own_troop_row-->
+<p>{name}: {sum}</p><br/>
+<!--/own_troop_row-->

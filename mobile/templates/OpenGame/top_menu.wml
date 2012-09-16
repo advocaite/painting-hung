@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card title="{Villages} {Name_Village}">
+<!--top_menu-->
+<p><a href="list_villages.php">{villages_list}</a>  |  <a href="logout.php">{logout}</a></p>
+<p>--------------------------</p>
+<p><a href="village1.php?vid={village_id}">{out_village}</a></p>
+<p><a href="village2.php?vid={village_id}">{Village center}</a></p>
+<p><a href="general.php">{overview}</a></p>
+<p><a href="plus.php">{Asu}</a></p>
+<p>--------------------------</p>
+<!--/top_menu-->

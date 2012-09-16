@@ -1,0 +1,3 @@
+<!--research_action_accept-->
+<p><a href="general_more.php?id={id}&amp;tid={troop_id}">{Research}</a></p>
+<!--/research_action_accept-->

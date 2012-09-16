@@ -1,0 +1,3 @@
+﻿<!--list_troop_status-->
+<p> + {village_attack_name} {incoming_title} {village_defend_name}</p>
+<!--/list_troop_status-->

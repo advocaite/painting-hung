@@ -1,0 +1,7 @@
+<!--train_troop_row-->
+<p><img  src="{icon}.gif" alt="icon"/> {name}({present_troop})</p><br/>
+<p>{title_column_number}:</p>
+<p><input name="t{i}" value="0" size="2"/></p><br/>
+<p>{title_column_max}: ({sum})</p><br/>
+<p>------------------------------</p><br/>
+<!--/train_troop_row-->

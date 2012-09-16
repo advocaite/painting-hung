@@ -1,0 +1,187 @@
+/* -------------------------------------------------------------------
+// markItUp!
+// By Jay Salvat - http://markitup.jaysalvat.com/
+// ------------------------------------------------------------------*/
+.markItUp .markItUpButton1 a	{
+	background-image:url(images/bold.png);
+}
+.markItUp .markItUpButton2 a	{
+	background-image:url(images/italic.png);
+}
+.markItUp .markItUpButton3 a	{
+	background-image:url(images/underline.png);
+}
+
+/*.markItUp .markItUpButton4 a	{
+	background-image:url(images/picture.png);
+}
+.markItUp .markItUpButton5 a	{
+	background-image:url(images/link.png);
+}
+
+.markItUp .markItUpButton6 a	{
+	background-image:url(images/fonts.png);
+}
+.markItUp .markItUpButton7 a	{
+	background-image:url(images/list-bullet.png);
+}
+.markItUp .markItUpButton8 a	{
+	background-image:url(images/list-numeric.png);
+}
+.markItUp .markItUpButton9 a	{
+	background-image:url(images/list-item.png);
+}
+
+.markItUp .markItUpButton10 a	{
+	background-image:url(images/quotes.png);
+}
+.markItUp .markItUpButton11 a	{
+	background-image:url(images/code.png);
+}
+	
+.markItUp .clean a {
+	background-image:url(images/clean.png);
+}
+.markItUp .preview a {
+	background-image:url(images/preview.png);
+}*/
+.markItUpButton4 {
+padding:0;
+margin:0;
+}
+.markItUpButton4 a {
+	background:url(images/emoticon.gif) no-repeat;
+	width:35px;
+}
+
+.markItUpButton4  ul {
+		width:245px;
+		padding:1px;
+		border:1px solid #0066CC;
+		margin:0;
+		background:#FFFFFF
+}
+.markItUpButton4  ul li{
+width:35px;
+	height:35px;
+}
+
+
+
+.markItUp .markItUpButton4  li {
+	overflow:hidden;
+	padding:0px;
+	margin:0px;
+	float:left;
+}
+.markItUp .markItUpButton4  li a{
+ height:35px;
+ margin:0;
+ padding:0;
+}
+.markItUp .markItUpButton4  li a:hover{
+	background-color:#F9F9F9;
+}
+
+	.markItUpButton4 ul a {
+		margin:0;
+		padding:0;
+	}
+.markItUpButton4-1 a {
+	background:url(images/emoticon/thumbnail/grin.gif) no-repeat;
+
+	}
+	.markItUpButton4-2 a {
+	background:url(images/emoticon/thumbnail/smile.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-3 a {
+	background:url(images/emoticon/thumbnail/hamarneh.gif) no-repeat bottom left;
+
+	}
+	.markItUpButton4-4 a {
+	background:url(images/emoticon/thumbnail/cry.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-5 a {
+	background:url(images/emoticon/thumbnail/envy.gif) no-repeat bottom left;
+	}
+
+	.markItUpButton4-6 a {
+	background:url(images/emoticon/thumbnail/love.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-7 a {
+	background:url(images/emoticon/thumbnail/shy.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-8 a {
+	background:url(images/emoticon/thumbnail/anger.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-9 a {
+	background:url(images/emoticon/thumbnail/fear.gif) no-repeat bottom left;
+	}
+
+	.markItUpButton4-10 a {
+	background:url(images/emoticon/thumbnail/unhappy.gif) no-repeat bottom left;
+	}
+
+	.markItUpButton4-11 a {
+	background:url(images/emoticon/thumbnail/uplook.gif) no-repeat bottom left;
+	}
+
+
+	.markItUpButton4-12 a {
+	background:url(images/emoticon/thumbnail/puke.gif) no-repeat bottom left;
+	}
+
+	.markItUpButton4-4 a {
+	background:url(images/emoticon/thumbnail/question.gif) no-repeat bottom left;
+
+	}
+	.markItUpButton4-14 a {
+	background:url(images/emoticon/thumbnail/shock.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-15 a {
+	background:url(images/emoticon/thumbnail/sleepy.gif) no-repeat bottom left;
+
+	}
+	.markItUpButton4-16 a {
+	background:url(images/emoticon/thumbnail/coffee.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-17 a {
+	background:url(images/emoticon/thumbnail/sweat.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-18 a {
+	background:url(images/emoticon/thumbnail/pig.gif) no-repeat bottom left;
+	}
+
+	.markItUpButton4-19 a {
+	background:url(images/emoticon/thumbnail/shuai.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-20 a {
+	background:url(images/emoticon/thumbnail/bad.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-21 a {
+	background:url(images/emoticon/thumbnail/smoke.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-22 a {
+	background:url(images/emoticon/thumbnail/stupid.gif) no-repeat bottom left;
+	}
+
+	.markItUpButton4-23 a {
+	background:url(images/emoticon/thumbnail/ok.gif) no-repeat bottom left;
+	}
+
+	.markItUpButton4-24 a {
+	background:url(images/emoticon/thumbnail/thumbdown.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-25 a {
+	background:url(images/emoticon/thumbnail/kill.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-26 a {
+	background:url(images/emoticon/thumbnail/dog.gif) no-repeat bottom left;
+	}
+
+	.markItUpButton4-27 a {
+	background:url(images/emoticon/thumbnail/zan.gif) no-repeat bottom left;
+	}
+	.markItUpButton4-28 a {
+	background:url(images/emoticon/thumbnail/cool.gif) no-repeat bottom left;
+	}

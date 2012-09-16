@@ -1,0 +1,4 @@
+<!--hero_table-->
+<p>{List of heroes}:</p><br/>
+{rows}
+<!--/hero_table-->

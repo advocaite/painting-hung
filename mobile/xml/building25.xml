@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+					<note>
+					<content><![CDATA[<p><span style=" font-size:18px;"><strong>Tường th&agrave;nh </strong></span><br /><br /></p>
+<table style="font-size:1em;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="max-width:200px;" valign="top"><img src="images/buildings/gid31.png" alt="" /></td>
+<td style="padding:0 10px" align="justify" valign="top">C&ugrave;ng với qu&acirc;n thủ, tường th&agrave;nh sẽ l&agrave; sự hỗ trợ tốt cho bạn trong việc bảo vệ nh&acirc;n d&acirc;n v&agrave; c&aacute;c c&ocirc;ng tr&igrave;nh. Tăng cấp cho tường th&agrave;nh c&agrave;ng cao th&igrave; khả năng ph&ograve;ng thủ c&agrave;ng cao.
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>C</strong><strong>ấp độ c&ocirc;ng tr&igrave;nh</strong></p>
+<table class="tbg" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td width="116">Cấp</td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/go.gif" alt="Lumber" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/da.gif" alt="Clay" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/sat.gif" alt="Sắt" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/lua.gif" alt="L&uacute;a" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/tieuhao.gif" alt="Ti&ecirc;u hao" /></td>
+<td>DV</td>
+<td>Tăng sức ph&ograve;ng thủ %</td>
+</tr>
+<tr>
+<td>1</td>
+<td height="21" align="right">70</td>
+<td align="right">100</td>
+<td align="right">160</td>
+<td align="right">70</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>2</td>
+<td height="21" align="right">90</td>
+<td align="right">128</td>
+<td align="right">205</td>
+<td align="right">90</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td>3</td>
+<td height="21" align="right">115</td>
+<td align="right">164</td>
+<td align="right">262</td>
+<td align="right">115</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td>4</td>
+<td height="21" align="right">147</td>
+<td align="right">210</td>
+<td align="right">336</td>
+<td align="right">147</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td align="right">16</td>
+</tr>
+<tr>
+<td>5</td>
+<td height="21" align="right">188</td>
+<td align="right">268</td>
+<td align="right">429</td>
+<td align="right">188</td>
+<td align="right">2</td>
+<td align="right">2</td>
+<td align="right">20</td>
+</tr>
+<tr>
+<td>6</td>
+<td height="21" align="right">241</td>
+<td align="right">344</td>
+<td align="right">550</td>
+<td align="right">241</td>
+<td align="right">2</td>
+<td align="right">2</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td>7</td>
+<td height="21" align="right">308</td>
+<td align="right">440</td>
+<td align="right">704</td>
+<td align="right">308</td>
+<td align="right">2</td>
+<td align="right">3</td>
+<td align="right">28</td>
+</tr>
+<tr>
+<td>8</td>
+<td height="21" align="right">394</td>
+<td align="right">563</td>
+<td align="right">901</td>
+<td align="right">394</td>
+<td align="right">2</td>
+<td align="right">3</td>
+<td align="right">32</td>
+</tr>
+<tr>
+<td>9</td>
+<td height="21" align="right">504</td>
+<td align="right">721</td>
+<td align="right">1153</td>
+<td align="right">504</td>
+<td align="right">2</td>
+<td align="right">4</td>
+<td align="right">36</td>
+</tr>
+<tr>
+<td>10</td>
+<td height="21" align="right">646</td>
+<td align="right">922</td>
+<td align="right">1476</td>
+<td align="right">646</td>
+<td align="right">2</td>
+<td align="right">6</td>
+<td align="right">40</td>
+</tr>
+<tr>
+<td>11</td>
+<td height="21" align="right">826</td>
+<td align="right">1181</td>
+<td align="right">1889</td>
+<td align="right">826</td>
+<td align="right">2</td>
+<td align="right">7</td>
+<td align="right">44</td>
+</tr>
+<tr>
+<td>12</td>
+<td height="21" align="right">1058</td>
+<td align="right">1511</td>
+<td align="right">2418</td>
+<td align="right">1058</td>
+<td align="right">2</td>
+<td align="right">9</td>
+<td align="right">48</td>
+</tr>
+<tr>
+<td>13</td>
+<td height="21" align="right">1354</td>
+<td align="right">1934</td>
+<td align="right">3095</td>
+<td align="right">1354</td>
+<td align="right">2</td>
+<td align="right">11</td>
+<td align="right">52</td>
+</tr>
+<tr>
+<td>14</td>
+<td height="21" align="right">1733</td>
+<td align="right">2476</td>
+<td align="right">3961</td>
+<td align="right">1733</td>
+<td align="right">2</td>
+<td align="right">14</td>
+<td align="right">56</td>
+</tr>
+<tr>
+<td>15</td>
+<td height="21" align="right">2218</td>
+<td align="right">3169</td>
+<td align="right">5071</td>
+<td align="right">2218</td>
+<td align="right">2</td>
+<td align="right">17</td>
+<td align="right">60</td>
+</tr>
+<tr>
+<td>16</td>
+<td height="21" align="right">2840</td>
+<td align="right">4056</td>
+<td align="right">6490</td>
+<td align="right">2840</td>
+<td align="right">2</td>
+<td align="right">20</td>
+<td align="right">64</td>
+</tr>
+<tr>
+<td>17</td>
+<td height="21" align="right">3635</td>
+<td align="right">5192</td>
+<td align="right">8308</td>
+<td align="right">3635</td>
+<td align="right">3</td>
+<td align="right">24</td>
+<td align="right">68</td>
+</tr>
+<tr>
+<td>18</td>
+<td height="21" align="right">4652</td>
+<td align="right">6646</td>
+<td align="right">10634</td>
+<td align="right">4652</td>
+<td align="right">3</td>
+<td align="right">28</td>
+<td align="right">72</td>
+</tr>
+<tr>
+<td>19</td>
+<td height="21" align="right">5955</td>
+<td align="right">8507</td>
+<td align="right">13611</td>
+<td align="right">5955</td>
+<td align="right">3</td>
+<td align="right">33</td>
+<td align="right">76</td>
+</tr>
+<tr>
+<td>20</td>
+<td height="21" align="right">7622</td>
+<td align="right">10889</td>
+<td align="right">17422</td>
+<td align="right">7622</td>
+<td align="right">3</td>
+<td align="right">38</td>
+<td align="right">80</td>
+</tr>
+<tr>
+<td style="padding: 0px; height: 2px;" colspan="8">&nbsp;</td>
+</tr>
+<tr>
+<td>Tổng TN</td>
+<td><strong>34595 </strong></td>
+<td><strong>44421 </strong></td>
+<td><strong>79074</strong></td>
+<td><strong>34595 </strong></td>
+<td><strong>39</strong></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>]]></content>
+					</note>

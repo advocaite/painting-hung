@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card id="login" title="{login}">
+<!--login_body-->
+<p><b>{active}{failuser}</b></p>
+<p align = "center"><img src="images/en/a/logo.jpg"  alt="Asuwa mobile" /><br/></p>   
+<p align ="left">{user}</p>
+<p align="center"><input name="username" size="15" /></p>
+<p>{pass}</p>
+<p align="center"><input name="password" size="15" type="password"/></p>
+<p align="center"><anchor>{login}
+  <go method="get" href="login.php"> 
+  <postfield name="username" value="$(username)"/>
+  <postfield name="password" value="$(password)"/>
+  </go></anchor>
+</p>
+<!--/login_body-->
+</card> 
+</wml>

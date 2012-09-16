@@ -1,0 +1,4 @@
+<!--train_troop_body-->
+{list_troops}
+{train_troop_status}
+<!--/train_troop_body-->

@@ -1,0 +1,4 @@
+<!--improve_row-->
+<p><img src="{icon}.gif" alt="icon"/>{troop_name}({item_level})</p>
+<br/><p>{action}</p><br/>
+<!--/improve_row-->

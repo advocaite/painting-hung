@@ -1,0 +1,10 @@
+{top_menu}
+<!--village2_body-->
+<p><big><b>{resource_info}:</b></big></p>
+{resource_info_value}
+<p><b>{Construction}</b></p>
+{image}
+{building_level_up_status}
+<!--village2_body-->
+</card>
+</wml>

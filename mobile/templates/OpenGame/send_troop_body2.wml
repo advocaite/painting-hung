@@ -1,0 +1,25 @@
+<!--send_troop_body2-->
+<p>{Target}: {village_defend_name} ({village_defend_x}|{village_defend_y})</p>
+<p>{Player}: {player_defend_name}</p>
+<p>{village_attack_name} {send_type_string} {village_defend_name} {at} {time_at} {o_clock} {date_at}</p>
+{rows}
+<p><img  src="images/icon/hero4.ico.gif" alt="icon"/>{title12}: {t12}</p><br/>
+<p><anchor>{Accept}<go method="get" href="general_more.php">
+<postfield name="id" value="{id}"></postfield>
+<postfield name="t" value="1"></postfield>
+<postfield name="vdid" value="{village_defend_id}"></postfield>
+<postfield name="t1" value="$(t1)"></postfield>
+<postfield name="t2" value="$(t2)"></postfield>
+<postfield name="t3" value="$(t3)"></postfield>
+<postfield name="t4" value="$(t4)"></postfield>
+<postfield name="t5" value="$(t5)"></postfield>
+<postfield name="t6" value="$(t6)"></postfield>
+<postfield name="t7" value="$(t7)"></postfield>
+<postfield name="t8" value="$(t8)"></postfield>
+<postfield name="t9" value="$(t9)"></postfield>
+<postfield name="t10" value="$(t10)"></postfield>
+<postfield name="t11" value="$(t11)"></postfield>
+<postfield name="t12" value="$(t12)"></postfield>
+<postfield name="st" value="{send_type}"></postfield>
+</go></anchor></p>
+<!--/send_troop_body2-->

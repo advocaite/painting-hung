@@ -1,0 +1,1 @@
+<a href="{href}"><img src="images/un/a/del.gif" alt="{alt}" title="{title}" border="0" width="12" height="12"></a>

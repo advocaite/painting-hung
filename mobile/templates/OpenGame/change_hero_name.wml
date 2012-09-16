@@ -1,0 +1,6 @@
+<!--change_hero_name-->
+<p> + {change_name} {hero}</p>
+<p>{name} <input name="name" value="{old_name}" /></p>
+<p><anchor>{changed}<go method="get" href="general_more.php?id={id}">
+<postfield name="name" value="$(name)"></postfield></go></anchor></p>
+<!--/change_hero_name-->

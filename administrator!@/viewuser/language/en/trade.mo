@@ -1,0 +1,72 @@
+<?php
+$lang['error_+1']='Have been dispatched';
+$lang['error_1']='Enter village name or coordinates, please';
+$lang['error_2']='No resources have been selected';
+$lang['error_3']='Thieu thuong nhan';
+$lang['error_4_1']='A village with the name"';
+$lang['error_4_2']='" has not been found';
+$lang['error_5']='Invalid coordinates';
+$lang['error_6']='Too few resources available';
+$lang['error_7']='Your merchant is already in this village';
+$lang['arriving_merchants']='Arriving merchants';
+$lang['own_merchants_underway']='Own merchants underway';
+$lang['from']='from';
+$lang['to']='to';
+$lang['Arrival']='Arrival';
+$lang['Resources']='Resources';
+$lang['error_offer_input']='<p class="e">Invalid offer</p>';
+$lang['error_offer_few_rs']='<p class="e">Too few resources</p>';
+$lang['error_offer_few_merchant']='<p class="e">Too few merchant</p>';
+$lang['error_buy_few_rs']='Too few resources';
+$lang['error_buy_few_merchant']='Too few merchant';
+$lang['Merchants']='Merchants';
+$lang['Each of your merchants can carry']='Each of your merchants can carry';
+$lang['resources']='resources';
+
+$lang['Village']='Village';
+$lang['or']='or';
+$lang['Lumber']='Lumber';
+$lang['Clay']='Clay';
+$lang['Iron']='Iron';
+$lang['Crop']='Crop';
+$lang['Player']='Player';
+$lang['Duration']='Duration';
+$lang['Send resources']='Send resources';
+$lang['Buy']='Buy';
+$lang['Offer']='Offer';
+$lang['NPC trading']='NPC trading';
+
+$lang['Offering']='Offering';
+$lang['Searching']='Searching';
+$lang['Max time of transport']='Max time of transport';
+$lang['hours']='hours';
+$lang['intro']='With the NPC merchant you can distribute the resources in your warehouse as you desire.<br><br>
+The first line shows the current stock. In the second line you can choose another distribution. The third line shows the difference between the old and new stock.';
+$lang['Trade resources at']='Trade resources at';
+$parse['step']='step';
+$parse['of']='of';
+$parse['Costs']='Costs';
+$parse['gold']='gold';
+$lang['not enough gold for trade available']='not enough gold for trade available';
+$lang['Sum']='Sum';
+$lang['Rest']='Rest';
+$lang['Distribute resources at']='Distribute resources at';
+
+$lang['Subject']='Subject';
+$lang['supplies']='supplies';
+$lang['sent']='sent';
+$lang['resources']='Resources';
+$lang['from the village']='from the village';
+$lang['on']='on';
+$lang['at']='at';
+$lang['o_clock']='o\'clock';
+$lang['']='';
+$lang['']='';
+$lang['']='';
+$lang['']='';
+$lang['']='';
+$lang['']='';
+$lang['']='';
+$lang['']='';
+$lang['']='';
+?>

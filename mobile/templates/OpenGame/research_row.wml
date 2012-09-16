@@ -1,0 +1,10 @@
+<!--research_row-->
+<p><img src="{icon}.gif" alt="icon"/>{name}</p><br/>
+<p><img src="images/un/r/1.gif" alt="icon"/>{rs1}|
+<img src="images/un/r/2.gif" alt="icon"/>{rs2}|
+<img src="images/un/r/3.gif" alt="icon"/>{rs3}|
+<img src="images/un/r/4.gif" alt="icon"/>{rs4}| 
+<img src="images/un/a/clock.gif" alt="icon"/>{time_research}</p><br/>
+{action}<br/>
+<p>--------------------------------</p><br/>
+<!--/research_row-->

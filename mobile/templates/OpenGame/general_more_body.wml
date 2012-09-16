@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card>{content_update}
+<!--general_more_body-->{list_troop_in_village}
+<a href='general_more_more.php?id={id}{tab}'>{type_link}</a>
+<!--/general_more_body-->
+</card>
+</wml>

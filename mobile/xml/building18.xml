@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+					<note>
+					<content><![CDATA[<p><span style=" font-size:18px;"><strong>L&ograve; r&egrave;n</strong></span><br /><br /></p>
+<table style="font-size:1em;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="max-width:200px;" valign="top"><img src="images/buildings/gid12.png" alt="" /></td>
+<td style="padding:0 10px" align="justify" valign="top"><strong>Y&ecirc;u cầu:</strong> <a href="viewtroop.php?id=14">Dinh thự</a> Cấp độ 3, <a href="viewbuilding.php?id=21">Học viện </a> Cấp độ 3.
+<p>&nbsp;</p>
+<p>Nơi thợ r&egrave;n chế tạo c&aacute;c  loại vũ kh&iacute;, l&agrave;m tăng khả năng của ch&uacute;ng. T&ugrave;y&nbsp;v&agrave;o cấp độ của l&ograve; r&egrave;n m&agrave; bạn  c&oacute; thể chọn vũ kh&iacute; cần n&acirc;ng cấp cho qu&acirc;n đội</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="tbg" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td>Khả năng tăng khả năng khi n&acirc;ng cấp</td>
+<td><img style="border: 0px none ;" title="Attack worth" src="images/misc/attack_all.ico" alt="Attack worth" /></td>
+</tr>
+<tr>
+<td>0</td>
+<td>100</td>
+</tr>
+<tr>
+<td>n=1</td>
+<td>(100*1.017^1)=101.7</td>
+</tr>
+<tr>
+<td>n=2</td>
+<td>(100*1.017^2)=103.04</td>
+</tr>
+<tr>
+<td>C&aacute;c cấp tiếp theo (n)</td>
+<td>(100*1.017^n)=X</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cấp độ c&ocirc;ng tr&igrave;nh</strong></p>
+<table class="tbg" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td>Cấp</td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/go.gif" alt="Gỗ" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/da.gif" alt="Đ&aacute;" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/sat.gif" alt="Sắt" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/lua.gif" alt="L&uacute;a" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/tieuhao.gif" alt="Ti&ecirc;u hao" /></td>
+<td>DV</td>
+</tr>
+<tr>
+<td>1</td>
+<td height="17" align="right">165</td>
+<td align="right">205</td>
+<td align="right">373</td>
+<td align="right">135</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>2</td>
+<td height="17" align="right">211</td>
+<td align="right">262</td>
+<td align="right">477</td>
+<td align="right">173</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>3</td>
+<td height="17" align="right">270</td>
+<td align="right">336</td>
+<td align="right">611</td>
+<td align="right">221</td>
+<td align="right">2</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>4</td>
+<td height="17" align="right">346</td>
+<td align="right">430</td>
+<td align="right">782</td>
+<td align="right">283</td>
+<td align="right">2</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>5</td>
+<td height="17" align="right">443</td>
+<td align="right">550</td>
+<td align="right">1001</td>
+<td align="right">362</td>
+<td align="right">2</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>6</td>
+<td height="17" align="right">567</td>
+<td align="right">704</td>
+<td align="right">1282</td>
+<td align="right">464</td>
+<td align="right">2</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>7</td>
+<td height="17" align="right">726</td>
+<td align="right">902</td>
+<td align="right">1640</td>
+<td align="right">594</td>
+<td align="right">2</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>8</td>
+<td height="17" align="right">929</td>
+<td align="right">1154</td>
+<td align="right">2100</td>
+<td align="right">760</td>
+<td align="right">3</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>9</td>
+<td height="17" align="right">1189</td>
+<td align="right">1477</td>
+<td align="right">2688</td>
+<td align="right">973</td>
+<td align="right">3</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>10</td>
+<td height="17" align="right">1522</td>
+<td align="right">1891</td>
+<td align="right">3440</td>
+<td align="right">1245</td>
+<td align="right">3</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td>11</td>
+<td height="17" align="right">1948</td>
+<td align="right">2420</td>
+<td align="right">4404</td>
+<td align="right">1594</td>
+<td align="right">3</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td>12</td>
+<td height="17" align="right">2493</td>
+<td align="right">3098</td>
+<td align="right">5637</td>
+<td align="right">2040</td>
+<td align="right">3</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td>13</td>
+<td height="17" align="right">3192</td>
+<td align="right">3965</td>
+<td align="right">7215</td>
+<td align="right">2611</td>
+<td align="right">4</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td>14</td>
+<td height="17" align="right">4085</td>
+<td align="right">5076</td>
+<td align="right">9235</td>
+<td align="right">3342</td>
+<td align="right">4</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td>15</td>
+<td height="17" align="right">5229</td>
+<td align="right">6497</td>
+<td align="right">11821</td>
+<td align="right">4278</td>
+<td align="right">4</td>
+<td align="right">17</td>
+</tr>
+<tr>
+<td>16</td>
+<td height="17" align="right">6693</td>
+<td align="right">8316</td>
+<td align="right">15131</td>
+<td align="right">5476</td>
+<td align="right">4</td>
+<td align="right">20</td>
+</tr>
+<tr>
+<td>17</td>
+<td height="17" align="right">8567</td>
+<td align="right">10644</td>
+<td align="right">19367</td>
+<td align="right">7010</td>
+<td align="right">4</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td>18</td>
+<td height="17" align="right">10966</td>
+<td align="right">13625</td>
+<td align="right">24790</td>
+<td align="right">8972</td>
+<td align="right">5</td>
+<td align="right">28</td>
+</tr>
+<tr>
+<td>19</td>
+<td height="17" align="right">14037</td>
+<td align="right">17439</td>
+<td align="right">31731</td>
+<td align="right">11485</td>
+<td align="right">5</td>
+<td align="right">33</td>
+</tr>
+<tr>
+<td>20</td>
+<td height="17" align="right">17967</td>
+<td align="right">22323</td>
+<td align="right">40616</td>
+<td align="right">14700</td>
+<td align="right">5</td>
+<td align="right">38</td>
+</tr>
+<tr>
+<td style="padding: 0px; height: 2px;" colspan="7">&nbsp;</td>
+</tr>
+<tr>
+<td>Tổng TN</td>
+<td><strong>81545 </strong></td>
+<td><strong>101314 </strong></td>
+<td><strong>184341 </strong></td>
+<td><strong>66719 </strong></td>
+<td><strong>62</strong></td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>]]></content>
+					</note>

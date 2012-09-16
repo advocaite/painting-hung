@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+#ltop6 {position:absolute; left:231px; width:680px;}
+
+#lplus1 {position:relative; left:115px;}
+
+#lplus2 {position:relative; left:249px;}
+
+#f99 {position:absolute; width:300px; height:264px; left:15px; top:75px; background-repeat:no-repeat; z-index:1; background-image:url(img/un/g/f99.jpg);}
+
+#mx0,#mx1,#mx2,#mx3,#mx4,#mx5,#mx6,#my0,#my1,#my2,#my3,#my4,#my5,#my6 {position:absolute; z-index:30; width:35px; height:12px; font-size:7pt; text-align:center;}
+
+#mx0{left:14px; top:255px;}
+#mx1{left:50px; top:275px;}
+#mx2{left:86px; top:295px;}
+#mx3{left:122px; top:315px;}
+#mx4{left:158px; top:335px;}
+#mx5{left:194px; top:355px;}
+#mx6{left:230px; top:375px;}
+
+#my0{left:14px; top:210px;}
+#my1{left:50px; top:190px;}
+#my2{left:86px; top:170px;}
+#my3{left:122px; top:150px;}
+#my4{left:158px; top:130px;}
+#my5{left:194px; top:110px;}
+#my6{left:230px; top:90px;}
+
+/* Quests */
+
+#qstbg{z-index:1; position:absolute; height:398px; left:11px; top:75px; width:428px; background-repeat:no-repeat; background-position:bottom; background-color:white;}
+#qstd {width:415px; position:relative; z-index:10;}
+#qge {/*padding:4px;*/}
+#qge img {
+	display:block;
+	cursor:pointer;
+	position:relative;
+/*	float:left;
+*/}
+img.qge1 {left:0px;top:0px; float:left;}
+img.qge2 {left:-22px;top:0px;}
+/*img.qge3 {left:-21px;}*/
+.preload {visibility:hidden;position:absolute;}
+#anm {border:1px #555 solid; position:absolute; z-index:1000;}
+.qle, .qri {display:block;}
+.qle {float:left;text-align:left;}
+.qri {float:right;text-align:right;}
+.qcoords input {width:60px;}
+.qcoords, .qcoords input {font-size:24px;font-weight:bold;} 
+.qmt {font-style:italic;}
+#qstd ul {margin:0; padding-left:17px;}
+.p5 {padding-bottom:5px;}
+.qb1 {float:left;}
+.qb2 {float:right;}
+.qb1,.qb2 {margin:0px 12px 0px 12px;}
+
+#ce {position: fixed; left: 0px; top: 0px; z-index: 999;}
+
+.ddb {float:left;}
+
+/* Adressbuch; IE needs top: 208px; */
+.adressbuch {position:absolute; background-image:url(img/un/a/adr.gif); background-repeat:no-repeat; display:inline; width:430px; height:300px; z-index:80; border: 0px solid #000000; padding:35px 15px 0 15px; left: 27px; top: 199px;}
+* html .adressbuch {top:208px;}
+*+html .adressbuch {top:208px;}
+
+.adressbuch_head {position: absolute; top: 15px; font-weight: bold; font-size: 12pt; margin-left: 150px;}
+.addr_fehler {position: absolute; top: 15px; font-size: 10pt; color: red; width: 380px; text-align: center;}
+.adressbuch_close {position:absolute; width:20px; height:20px; z-index:81; border: 0px solid #000000; left: 404px; top: 9px;}
+
+.adressbuch table tr td {height: 20px;}
+.addr1, .addr3 {width: 5%; padding: 0;}
+.addr2 {width: 39.5%; padding: 0;}
+.addr4 {width: 1%; padding: 0;}
+
+.submit_img {width: 12px; height:12px; border: 0px; cursor: pointer;}
+
+#d1trp {display:inline;}
+
+#aeioa,#aeiob {position:absolute; z-index:61; right:0px; margin-right:10px;}
+#aeioa {top:80px;}
+#aeiob {top:170px;}
+
+#atdb {background-repeat:no-repeat;background-position:260px 95px;}
+
+.fm170 { width:170px;}
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions name='xGo_asu' targetNamespace='http://14.0.18.59'
+xmlns:tns='http://14.0.18.59'
+xmlns:soap='http://schemas.xmlsoap.org/wsdl/soap/'
+xmlns:xsd='http://www.w3.org/2001/XMLSchema'
+xmlns:soapenc='http://schemas.xmlsoap.org/soap/encoding/'
+xmlns:wsdl='http://schemas.xmlsoap.org/wsdl/'
+xmlns='http://schemas.xmlsoap.org/wsdl/'>
+  <message name='getxGo_asuRequest'>
+    <part name="domainClient" type="xsd:string" />
+    <part name="ws_username" type="xsd:string" />
+    <part name="ws_password" type="xsd:string" />
+    <part name="transactionId" type="xsd:string" />
+    <part name="customerId" type="xsd:string" />
+    <part name="xGo_amount" type="xsd:int" />
+  </message>
+  <message name='getxGo_asuResponse'>
+    <part name='Result' type='xsd:string' />
+  </message>
+  <portType name='xGo_asuPortType'>
+    <operation name='getxGo_asuEntry'>
+      <input message='tns:getxGo_asuRequest' />
+      <output message='tns:getxGo_asuResponse' />
+    </operation>
+  </portType>
+  <binding name='xGo_asuBinding' type='tns:xGo_asuPortType'>
+    <soap:binding style='rpc'
+    transport='http://schemas.xmlsoap.org/soap/http' />
+    <operation name='getxGo_asuEntry'>
+      <soap:operation soapAction='urn:localhost-xgo_asu#getxGo_asuEntry' />
+      <input>
+        <soap:body use='encoded' namespace='urn:localhost-xgo_asu'
+        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/' />
+      </input>
+      <output>
+        <soap:body use='encoded' namespace='urn:localhost-xgo_asu'
+        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/' />
+      </output>
+    </operation>
+  </binding>
+  <service name='xGo_asuService'>
+    <port name='xGo_asuPort' binding='xGo_asuBinding'>
+      <soap:address location='http://14.0.18.59/ws/xgo_asu.php' />
+    </port>
+  </service>
+</definitions>

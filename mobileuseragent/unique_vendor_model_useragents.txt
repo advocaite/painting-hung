@@ -1,0 +1,450 @@
+Acer	Pro80	ACER-Pro80/1.02 UP/4.1.20i UP.Browser/4.1.20i-XXXX
+Alcatel	BE3	Alcatel-BE3/1.0 UP/4.1.8d
+Alcatel	BE4	Alcatel-BE4/1.0 UP/4.1.16f
+Alcatel	BE5	Alcatel-BE5/1.0 UP/4.1.19e
+Alcatel	BF3	Alcatel-BF3/1.0 UP.Browser/4.1.23a
+Alcatel	BF4	Alcatel-BF4/1.0 UP.Browser/4.1.23a
+Alcatel	BF5	Alcatel-BF5/1.0 UP.Browser/4.1.23a
+Alcatel	BG3	Alcatel-BG3/1.0 UP.Browser/5.0.3
+Alcatel	BG3-color	Alcatel-BG3-color/1.0 UP.Browser/5.0.3.3.11
+Alcatel	BH4	Alcatel-BH4/1.0 UP.Browser/6.1.0.4.123 (GUI) MMP/1.0
+Alcatel	BH4R	Alcatel-BH4R/1.0 UP.Browser/6.2.ALCATEL MMP/1.0
+Alcatel	TH3	Alcatel-TH3/1.0 UP.Browser/6.2.ALCATEL MMP/1.0
+Alcatel	TH4	Alcatel-TH4/1.0 UP.Browser/6.2.ALCATEL MMP/1.0
+Audiovox	9155GPX	AUDIOVOX-9155GPX/07.13 UP.Browser/4.1.26c3
+Audiovox	CDM-8150	CDM-8150/P15 UP.Browser/4.1.26c4 UP.Link/4.3.3.4
+Audiovox	CDM-8300	CDM-8300/T10 UP.Browser/4.1.26l UP.Link/4.3.3.4
+Audiovox	CDM9100	AUDIOVOX-CDM9100/05.89 UP.Browser/4.1.24c UP.Link/5.0.2.7a
+Audiovox	CDM9500	AUDIOVOX-CDM9500/111.030 UP.Browser/5.0.4.1 (GUI)
+BlackBerry	5820	BlackBerry5820/3.6.0
+BlackBerry	6210	BlackBerry6210/3.6.0
+BlackBerry	6710	BlackBerry6710/3.6.0
+BlackBerry	7230	BlackBerry7230/3.7.0
+Ericsson	A2618s	EricssonA2618s/R1A
+Ericsson	A2628s	EricssonA2628s/R2A
+Ericsson	ER209i	DoCoMo/1.0/ER209i
+Ericsson	R320	EricssonR320/R1A
+Ericsson	R520	EricssonR520/R1A
+Ericsson	T20	EricssonT20/R2A
+Ericsson	T200	EricssonT200/R101
+Ericsson	T39	EricssonT39/R201
+Ericsson	T65	EricssonT65/R101
+Ericsson	T68	EricssonT68
+Fujitsu	F209i	DoCoMo/1.0/F209i
+Fujitsu	F210i	DoCoMo/1.0/F210i/c10
+Fujitsu	F211i	DoCoMo/1.0/F211i/c10
+Fujitsu	F501i	DoCoMo/1.0/F501i
+Fujitsu	F502i	DoCoMo/1.0/F502i
+Fujitsu	F502it	DoCoMo/1.0/F502it
+Fujitsu	F503i	DoCoMo/1.0/F503i/c10
+Fujitsu	F503iS	DoCoMo/1.0/F503iS/c10
+Fujitsu	F671i	DoCoMo/1.0/F671i/c10
+Japan Radio	R209i	DoCoMo/1.0/R209i
+Japan Radio	R691i	DoCoMo/1.0/R691i
+Kokusai	KO209i	DoCoMo/1.0/KO209i
+Kokusai	KO210i	DoCoMo/1.0/KO210i
+LG	510W	LGE510W-V137-AU4.2
+LG	C1200	LG-C1200 MIC/WAP2.0 MIDP-2.0/CLDC-1.0
+LG	C3100	LG-C3100 AU/4.10 Profile MIDP-1.0 Configuration CLDC-1.0
+LG	CU8080	LGE-CU8080/1.0 UP.Browser/4.1.26l UP.Link/5.1.1.5c
+LG	DB520	LGE-DB520/1.0 UP.Browser/4.1.22b1
+LG	DB525	LGE-DB525/1.0 UP.Browser/4.1.24f UP.Link/5.0.2.8
+LG	DM310	LGE-DM310/1.0 UP.Browser/4.1.26l UP.Link/4.3.2.4
+LG	DM515H	LGE-DM515H/1.0 UP.Browser/4.1.22b UP.Link/4.3.2.4
+LG	G510	LG-G510 AU/4.2
+LG	G5200	LG-G5200
+LG	G5300	LG-G5300 AU/4.10
+LG	G5300i	LG-G5300i/JM AU/4.10 Profile/MIDP-1.0 Configuration/CLDC-1.0
+LG	G5400	LG-G5400 AU/4.10 Profile/MIDP-1.0 Configuration/CLDC-1.0
+LG	G7000	LG-G7000 AU/4.10
+LG	G7020	LG-G7020
+LG	G7050	LG-G7050 UP.Browser/6.2.2 (GUI) MMP/1.0 Profile/MIDP-1.0 Configuration/CLDC-1.0
+LG	G7100	LG-G7100 AU/4.10 Profile/MIDP-1.0 Configuration/CLDC-1.0
+LG	G7200	LG-G7200 UP.Browser/6.2.2 (GUI) MMP/1.0 Profile/MIDP-1.0 Configuration/CLDC-1.0
+LG	G8000	LG G8000/1.0 PDK/2.5
+LG	LX5350	LGE-LX5350/1.0 UP.Browser/6.1.0.2.135 (GUI) MMP/2.0
+LG	TM540C	LGE-TM540C/1.0 UP.Browser/4.1.26l
+LG	U8150	LGE/U8150/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.0
+Microsoft	SmartPhone	Mozilla/2.0 (compatible; MSIE 3.02; Windows CE; 240x320; PPC)
+Mitsubishi	D209i	DoCoMo/1.0/D209i
+Mitsubishi	D2101V	DoCoMo/2.0 D2101V(c100)
+Mitsubishi	D210i	DoCoMo/1.0/D210i/c10
+Mitsubishi	D211i	DoCoMo/1.0/D211i/c10
+Mitsubishi	D501i	DoCoMo/1.0/D501i
+Mitsubishi	D502i	DoCoMo/1.0/D502i
+Mitsubishi	D503i	DoCoMo/1.0/D503i/c10
+Mitsubishi	D503iS	DoCoMo/1.0/D503iS/c10
+Mitsubishi	M341i	portalmmm/2.0 M341i(c10;TB)
+Mitsubishi	m21i-10	portalmmm/1.0 m21i-10(c10)
+Motorola	2000	MOT-2000./10.01 UP/4.1.21b
+Motorola	2100	MOT-2100./11.03 UP.Browser/4.1.24f
+Motorola	2102	MOT-2102./11.03 UP.Browser/4.1.24f
+Motorola	2200	MOT-2200./11.03 UP.Browser/4.1.25i UP.Link/4.2.1.8
+Motorola	28	MOT-28/04.02 UP/4.1.17r
+Motorola	32	MOT-32/00.03 UP/4.1.21b UP.Browser/4.1.21b-XXXX UP.Link/4.3.1.1
+Motorola	40	MOT-40/04.04 UP/4.1.17r
+Motorola	43	MOT-43/04.05 UP/4.1.17r
+Motorola	61	MOT-61/04.02 UP/4.1.17r
+Motorola	62	MOT-62/04.05 UP/4.1.17r UP.Browser/4.1.17r-XXXX
+Motorola	70	MOT-70/00.01 UP/4.1.21b
+Motorola	76	MOT-76/00.01 UP.Browser/4.1.23
+Motorola	820	MOT-820/00.00.00 MIB/2.2 Profile/MIDP-1.0 Configuration/CLDC-1.0
+Motorola	8300	MOT-8300_/11.03 UP.Browser/4.1.25i UP.Link/5.1.1a
+Motorola	85	MOT-85/00.00 UP.Browser/4.1.26m.737 UP.Link/4.2.3.5c
+Motorola	A-88	MOT-A-88/01.02 UP.Browser/4.1.26m.737 UP.Link/4.2.3.5c
+Motorola	A835	MOT-A835/72.32.05I MIB/2.2 Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Link/5.1.1.5
+Motorola	AF	MOT-AF/0.0.22 UP/4.0.5n
+Motorola	BC	MOT-BC/4.1.9 UP.Browser/4.1.23
+Motorola	C2	MOT-C2/4.1.8 UP/4.1.16s
+Motorola	C350M	MOT-C350M/G_09.04.23R MIB/2.0
+Motorola	C385	MOT-C385/0B.D1.09R MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+Motorola	C4	MOT-C4/0.0.21 UP/4.0.5m
+Motorola	C650	MOT-C650/0B.D0.1FR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0 UP.Link/1.1
+Motorola	CB	MOT-CB/0.0.18 UP/4.1.20a UP.Browser/4.1.20a-XXXX UP.Link/4.1.HTTP-DIRECT
+Motorola	CF	MOT-CF/00.12.13 UP/4.1.9m
+Motorola	D1	MOT-D1/0.0.22 UP/4.0.5n
+Motorola	D3	MOT-D3/0.0.22 UP/4.0.5n
+Motorola	D4	MOT-D4/4.1.4 UP/4.1.16a
+Motorola	D5	MOT-D5/0.0.22 UP/4.0.5n
+Motorola	D8	MOT-D8/4.1.8 UP/4.1.16s
+Motorola	DC	MOT-DC/4.1.9 UP/4.1.19i
+Motorola	DD	MOT-DD/0.0.22 UP/4.0.5n
+Motorola	DF	MOT-DF/0.0.22 UP/4.0.5n
+Motorola	E365	Motorola-E365 UP.Browser/6.1.0.7 (GUI) MMP/1.0
+Motorola	E380	MOT-E380/0A.03.29R MIB/2.2 Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Link/5.1.2.1
+Motorola	F0	MOT-F0/4.1.8 UP.Browser/4.1.23
+Motorola	F4	MOT-F4/4.1.7 UP/4.1.16p
+Motorola	F5	MOT-F5 4.1.9 UP.Browser
+Motorola	F6	MOT-F6/10.36.32 UP.Browser/4.1.23d
+Motorola	FE	MOT-FE/20.16.13 UP.Browser/4.1.23i
+Motorola	P2K-C	MOT-P2K-C/10.01 UP/4.1.21b
+Motorola	P2K-T	MOT-P2K-T/13.02 UP.Browser/4.1.25i UP.Link/5.1.2.1
+Motorola	PAN4	MOT-PAN4_/11.03 UP.Browser/4.1.23c
+Motorola	PHX4	MOT-PHX4_/11.03 UP.Browser/4.1.23c
+Motorola	PHX8	MOT-PHX8/02.27.00.n1 MIB/1.2
+Motorola	PHX8A	MOT-PHX8A/11.03 UP.Browser/4.1.23c
+Motorola	SAP4	MOT-SAP4_/11.03 UP.Browser/4.1.23c
+Motorola	SAP4H	MOT-SAP4H/11.03 UP.Browser/4.1.23c
+Motorola	SAP8A	MOT-SAP8A/11.03 UP.Browser/4.1.23c
+Motorola	T280M	MOT-T280M/02.12.00I MIB/1.2
+Motorola	T720	MOT-T720/05.05.1DI MIB/2.0 Profile/MIDP-1.0 Configuration/CLDC-1.0
+Motorola	T725E	MOT-T725E/08.03.30I MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+Motorola	TA02	MOT-TA02/06.03.1FR MIB/1.2.1
+Motorola	V3	MOT-V3/0E.40.3ER MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+Motorola	V300	MOT-V300/0B.08.85R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+Motorola	V500	MOT-V500/0B.08.74R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+Motorola	V525M	MOT-V525M/0B.09.38R MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+Motorola	V600	MOT-V600/0B.08.29I MIB/2.2 Profile/MIDP-2.0 Configuration/CLDC-1.0
+Motorola	V60M	MOT-V60M/03.07.24I MIB/1.2.1 Profile/MIDP-1.0 Configuration/CLDC-1.0
+Motorola	V66M	MOT-V66M/02.27.00I MIB/1.2
+Motorola	V708	MOT-V708_/11.03 UP.Browser/4.1.23c
+Motorola	c350	MOT-c350/G_09.04.70R MIB/2.0
+Motorola	c350M	MOT-c350M/AS_G_09.04.24R MIB/2.0
+Motorola	v200	MOT-v200./10.01 UP/4.1.21b UP.Browser/4.1.21b-XXXX
+NEC	525	NEC-525/1.0 up.Browser/6.1.0.6.1 (GUI) MMP/1.0
+NEC	530	NEC-530/1.0 UP.Browser/6.1.0.7 (GUI) MMP/1.0 Profile/MIDP-1.0 Configuration/CLDC-1.0
+NEC	DB7000	NEC-DB7000/1.0 UP.Browser/4.1.23c
+NEC	N2001	DoCoMo/2.0 N2001(c10)
+NEC	N2002	DoCoMo/2.0 N2002(c100)
+NEC	N209i	DoCoMo/1.0/N209i
+NEC	N210i	DoCoMo/1.0/N210i
+NEC	N211i	DoCoMo/1.0/N211i/c10
+NEC	N223i	portalmmm/2.0 N223i(c10;TB)
+NEC	N341i	portalmmm/2.0 N341i(c10;TB)
+NEC	N400i	portalmmm/2.0 N400i(c20;TB)
+NEC	N410i	portalmmm/2.0 N410i(c20;TB)
+NEC	N501i	DoCoMo/1.0/N501i
+NEC	N502i	DoCoMo/1.0/N502i
+NEC	N502it	DoCoMo/1.0/N502it
+NEC	N503i	DoCoMo/1.0/N503i/c10
+NEC	N503iS	DoCoMo/1.0/N503iS/c10
+NEC	N8	NEC-N8/1.0 UP.Browser/6.1.0.4.128 (GUI) MMP/1.0
+NEC	N8000	NEC-N8000/1.0 UP.Browser/5.0.2.1.103 (GUI)
+NEC	N821i	DoCoMo/1.0/N821i
+NEC	NM502i	DoCoMo/1.0/NM502i
+NEC	n21i-10	portalmmm/1.0 n21i-10(;ser123456789012345;icc1234567890123456789F)
+NEC	n21i-20	portalmmm/1.0 n21i-20(c10)
+NEC	n22i-10	portalmmm/1.0 n22i-10(;ser123456789012345;icc1234567890123456789F)
+Nokia	3100	Nokia3100/1.0 (03.10) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	3200	Nokia3200/1.0 (4.16) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	3220	Nokia3220/2.0 (03.30) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia	3300	Nokia3300/1.0 (4.05) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	3320	Nokia3320/1.2.1 (03.04)
+Nokia	3330	Nokia3330/1.0
+Nokia	3350	Nokia3350/1.0 (05.11)
+Nokia	3360	Nokia3360/1.2.1 (03.04) UP.Link/5.1.2.1
+Nokia	3395	Nokia3395/1.0 (04.02) UP.Link/5.1.2.1
+Nokia	3410	Nokia3410/1.0 (03.06)
+Nokia	3510	Nokia3510/1.0 (3.02)
+Nokia	3510i	Nokia3510i/1.0 (03.25) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	3560	Nokia3560/1.0 (02.09) Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Link/5.1.2.1
+Nokia	3590	Nokia3590/1.0(7.14) UP.Link/5.1.2.1
+Nokia	3595	Nokia3595/1.0 (7.00) Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Link/5.1.2.1
+Nokia	3610	Nokia3610/1.0 (05.11)
+Nokia	3650	Nokia3650
+Nokia	3660	Nokia3660/1.0 (4.57) SymbianOS/6.1 Series60/0.9 Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	5100	Nokia5100/1.0 (3.02) Profile/MIDP 1.0 Configuration/CLDC-1.0
+Nokia	5210	Nokia5210/1.0 ()
+Nokia	5510	Nokia5510/1.0 (03.25)
+Nokia	6100	Nokia6100/1.0 (03.22) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	6108	Nokia6108/1.0 (03.20) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	6200	Nokia6200/1.0 (3.05) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	6210	Nokia6210/1.0 (0)
+Nokia	6220	Nokia6220/2.0 (5.15) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	6230	Nokia6230/2.0 (03.14) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia	6250	Nokia6250/1.0
+Nokia	6310	Nokia6310/1.0 ()
+Nokia	6310i	Nokia6310i/1.0 (4.06) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	6340i	Nokia6340i/1.2.1 (8.03.1) Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Link/5.1.2.1
+Nokia	6500	Nokia6500/1.0 (05.57)
+Nokia	6510	Nokia6510/1.0 (02.40)
+Nokia	6590	Nokia6590/1.0(40.44)
+Nokia	6600	Nokia6600/1.0 (3.42.1) SymbianOS/7.0s Series60/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.0
+Nokia	6610	Nokia6610/1.0 (3.09) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	6610I	Nokia6610I/1.0 (3.10) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	6650	Nokia6650/1.0 (1.101) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	6800	Nokia6800/1.0 (3.14) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	6820	Nokia6820/2.0 (3.19) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	7110	Nokia7110
+Nokia	7160	Nokia7160/1.1 (01.05)
+Nokia	7210	Nokia7210/1.0 (2.01) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	7250	Nokia7250/1.0
+Nokia	7250I	Nokia7250I/1.0 (3.22) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	7610	Nokia7610/2.0 (4.0421.4) SymbianOS/7.0s Series60/2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+Nokia	7650	Nokia7650
+Nokia	8310	Nokia8310/1.0 (03.05)
+Nokia	8390	Nokia8390/1.0 (7.00) UP.Link/5.1.2.2
+Nokia	8910	Nokia8910/1.0 (03.04)
+Nokia	8910i	Nokia8910i/1.0 (02.61) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia	9110	Nokia9110/1.0
+Nokia	9210	Nokia 9210/Symbian Crystal 6.0 (1.00)
+Nokia	9210i	Nokia9210i/1.0 Symbian-Crystal/6.0
+Nokia	MIT-Browser	Nokia-MIT-Browser/3.0
+Nokia	Mobile	Nokia Mobile Browser 3.01
+Nokia	N-Gage	NokiaN-Gage/1.0 SymbianOS/6.1 Series60/1.2 Profile/MIDP-1.0 Configuration/CLDC-1.0
+PHILIPS	530	PHILIPS 530 / Obigo Internet Browser 2.0
+PHILIPS	535	PHILIPS 535/Obigo Internet Browser 2.0
+PHILIPS	AZ@LIS238	PHILIPS-az@lis238 UP/4.1.16r
+PHILIPS	AZ@LIS268	PHILIPS-az@lis268 UP/4.1.16r
+PHILIPS	AZ@LIS288	PHILIPS-Az@lis288 UP/4.1.19l
+PHILIPS	AZ@LIS288_4	PHILIPS-az@lis288_4 UP/4.1.19l
+PHILIPS	FISIO121	PHILIPS-Fisio 121/2.1 UP/4.1.19m
+PHILIPS	FISIO311	PHILIPS-Fisio311/2.1 UP/4.1.19m
+PHILIPS	FISIO318	PHILIPS-FISIO 318 UP/4.1.19m
+PHILIPS	FISIO330	PHILIPS-FISIO 330/3.14 UP.Browser/5.0.3.5 (GUI)
+PHILIPS	FISIO620	PHILIPS-FISIO 620 UP/4.1.19m
+PHILIPS	FISIO625	PHILIPS-FISIO 625/3.14 UP.Browser/5.0.3.5 (GUI)
+PHILIPS	FISIO820	PHILIPS-FISIO 820/3.14 UP.Browser/5.0.1.10
+PHILIPS	FISIO822	PHILIPS-FISIO 822/3.14 UP.Browser/5.0.3.5 (GUI)
+PHILIPS	FISIO825	PHILIPS-FISIO 825/3.14 UP.Browser/5.0.3.5 (GUI)
+PHILIPS	FISIO826	PHILIPS-FISIO 826/3.14 UP.Browser/5.0.3.5 (GUI)
+PHILIPS	GPRS	PHILIPS-GPRS/3.8 UP.Browser/5.0.1.3.101
+PHILIPS	OZEO	PHILIPS-Ozeo UP/4.1.16r
+PHILIPS	SYSOL2	PHILIPS-SYSOL2/3.11 UP.Browser/5.0.1.11
+PHILIPS	V21WAP	PHILIPS-V21WAP UP/4.1.16g
+PHILIPS	V21WAPCHN	PHILIPS-V21WAPCHN UP/4.1.16f
+PHILIPS	VTHIN_WAP	PHILIPS-VTHIN_WAP UP/4.1.16r
+PHILIPS	W@B	PHILIPS-W@B/3.13 UP/5.0.1.232
+PHILIPS	X38	PHILIPS-X38 UP/4.1.16g
+PHILIPS	XENIUM	PHILIPS-XENIUM 9660/2.1 UP/4.1.19m
+Panasonic	G50	Panasonic-G50/1.0 UP.Browser/6.1.0.6.d.2.100 (GUI) MMP/1.0
+Panasonic	G60	Panasonic-G60/1.0 UP.Browser/6.1.0.7 MMP/1.0 UP.Browser/6.1.0.7 (GUI) MMP/1.0
+Panasonic	GAD35	Panasonic-GAD35/1.0 UP.Browser/4.1.22j
+Panasonic	GAD6*	Panasonic-GAD6*/1.0 UP.Browser/5.0.3.5 (GUI)
+Panasonic	GAD67	Panasonic-GAD67 (SimulateurWAPVizzavi)
+Panasonic	GAD75	Panasonic-GAD75
+Panasonic	GAD87	Panasonic-GAD87
+Panasonic	GAD95	Panasonic-GAD95
+Panasonic	GAD96	Panasonic-GAD96
+Panasonic	P209i	DoCoMo/1.0/P209i
+Panasonic	P209is	DoCoMo/1.0/P209is
+Panasonic	P2101V	DoCoMo/2.0 P2101V(c100)
+Panasonic	P210i	DoCoMo/1.0/P210i
+Panasonic	P211i	DoCoMo/1.0/P211i/c10
+Panasonic	P341i	portalmmm/2.0 P341i(c10;TB)
+Panasonic	P501i	DoCoMo/1.0/P501i
+Panasonic	P502i	DoCoMo/1.0/P502i
+Panasonic	P503i	DoCoMo/1.0/P503i/c10
+Panasonic	P503iS	DoCoMo/1.0/P503iS/c10
+Panasonic	P821i	DoCoMo/1.0/P821i
+Panasonic	WAP	Panasonic WAP
+Panasonic	X60	Panasonic-X60/R01 Profile/MIDP-1.0 Configuration/CLDC-1.0
+QCI	23	QCI-23/1.0 UP.Browser/5.0.2.5 (GUI)
+QCI	24	QCI-24/1.0 UP.Browser/5.0.2.5 (GUI)
+QCI	31	QCI-31/1.0 UP.Browser/6.1.0.6.d.2.100 (GUI) MMP/1.0
+SAGEM	3XXX	SAGEM-3XXX/0.0 UP/4.1.16r
+SAGEM	9XX	SAGEM-9XX/0.0 UP/4.1.16g
+SAGEM	myV-55	SAGEM-myV-55/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.0 UP.Browser/6.2.2.6.d.3 (GUI) MMP/1.0 UP.Lin
+SAGEM	myV-65	SAGEM-myV-65/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.0 UP.Browser/6.2.2.3.e.1 (GUI) MMP/1.0
+SAGEM	myV-75	SAGEM-myV-75/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.0 UP.Browser/6.2.2.5.d.2 (GUI) MMP/1.0 UP.Lin
+SAGEM	myX-	SAGEM-myX-
+SAGEM	myX-2	SAGEM-myX-2/1.0 UP.Browser/5.0.5.3.100 (GUI)
+SAGEM	myX-2G	SAGEM-myX-2G/1.0
+SAGEM	myX-2m	SAGEM-myX-2m/1.0 UP.Browser/6.1.0.6.1.c.4 (GUI) MMP/1.0
+SAGEM	myX-3	SAGEM-myX-3/1.0 UP.Browser/5.0.1.12.c.1 (GUI)
+SAGEM	myX-5	SAGEM-myX-5/2.0 UP.Browser/5.0.1.7 (GUI)
+SAGEM	myX-5e	SAGEM-myX-5e/1.0 UP.Browser/6.1.0.6.1.c.3 (GUI) MMP/1.0
+SAGEM	myX-5m	SAGEM myX-5m
+SAGEM	myX-6	SAGEM-myX-6/1.0 UP.Browser/6.1.0.6.1.c.1 (GUI) MMP/1.0
+SAMSUNG	02	SEC02 UP.Browser/4.1.22b
+SAMSUNG	03	SEC03 UP.Browser/4.1.22c1
+SAMSUNG	07	SEC07 UP.Browser/4.1.22b
+SAMSUNG	09	SEC09 UP.Browser/4.1.22b
+SAMSUNG	13	SEC13/n150 UP.Browser/4.1.22b UP.Link/4.3.3.4
+SAMSUNG	SGH-A110	SAMSUNG-SGH-A110/1.0 UP/4.1.19j
+SAMSUNG	SGH-A200	SAMSUNG-SGH-A200/1.0 UP/4.1.19k
+SAMSUNG	SGH-A288	SAMSUNG-SGH-A288/1.0 UP/4.1.19k
+SAMSUNG	SGH-A300	SAMSUNG-SGH-A300/1.0 UP/4.1.19k
+SAMSUNG	SGH-A400	SAMSUNG-SGH-A400/1.0 UP/4.1.19k
+SAMSUNG	SGH-A800	SAMSUNG-SGH-A800/1.0 UP.Browser/5.0.3.3 (GUI)
+SAMSUNG	SGH-E330	SAMSUNG-SGH-E330/1.0 UP.Browser/6.2.2.6 (GUI) MMP/1.0
+SAMSUNG	SGH-E700	SAMSUNG-SGH-E700/BSI UP.Browser/6.1.0.6 (GUI) MMP/1.0
+SAMSUNG	SGH-E800	SAMSUNG-SGH-E800/1.0 UP.Browser/6.2.2.6 (GUI) MMP/1.0
+SAMSUNG	SGH-E820	SAMSUNG-SGH-E820/1.0 UP.Browser/6.2.2.6 (GUI) MMP/1.0
+SAMSUNG	SGH-N100	SAMSUNG-SGH-N100/1.0 UP/4.1.19k
+SAMSUNG	SGH-N188	SAMSUNG-SGH-N188/1.0 UP/4.1.19k
+SAMSUNG	SGH-N300	SAMSUNG-SGH-N300 UP/4.1.19k
+SAMSUNG	SGH-N400	SAMSUNG-SGH-N400 UP/4.1.19k
+SAMSUNG	SGH-N500	SAMSUNG-SGH-N500/1.0 UP/4.1.19k
+SAMSUNG	SGH-N600	SAMSUNG-SGH-N600/1.0 UP.Browser/4.1.26b
+SAMSUNG	SGH-N620	SAMSUNG-SGH-N620/1.0 UP/4.1.19k
+SAMSUNG	SGH-Q100	SAMSUNG-SGH-Q100/1.0 UP/4.1.19k
+SAMSUNG	SGH-R200	SAMSUNG-SGH-R200/1.0 UP/4.1.19k
+SAMSUNG	SGH-R200S	SAMSUNG-SGH-R200S/1.0 UP/4.1.19k
+SAMSUNG	SGH-R210S	SAMSUNG-SGH-R210S/1.0 UP/4.1.19k
+SAMSUNG	SGH-R220	SAMSUNG-SGH-R220/1.0 UP/4.1.19k
+SAMSUNG	SGH-S500	SAMSUNG-SGH-S500/SHARK UP.Browser/5.0.4.2 (GUI)
+SAMSUNG	SGH-T100	SAMSUNG-SGH-T100/1.0 UP.Browser/4.1.26c4
+SAMSUNG	SGH-T200	SAMSUNG-SGH-T200/1.0 UP.Browser/5.0.4.3 (GUI)
+SAMSUNG	SGH-T400	SAMSUNG-SGH-T400/1.0 UP.Browser/5.0.4.3 (GUI)
+SAMSUNG	SGH-T410	SAMSUNG-SGH-T410/1.0 UP.Browser/5.0.4 (GUI)
+SAMSUNG	SGH-T500	SAMSUNG-SGH-T500/1.0 UP.Browser/5.0.5.2.c.1.100 (GUI)
+SAMSUNG	SGH-X600	SAMSUNG-SGH-X600/K3 UP.Browser/6.1.0.6 (GUI) MMP/1.0
+SAMSUNG	SGH-Z100	SAMSUNG-SGH-Z100
+SAMSUNG	SGHC100	SEC-SGHC100/1.0 UP.Browser/5.0.5.1 (GUI)
+SAMSUNG	SGHC100G	SEC-SGHC100G/1.0 UP.Browser/5.0.5.1 (GUI)
+SAMSUNG	SGHD100	SEC-SGHD100
+SAMSUNG	SGHE600	SEC-SGHE600
+SAMSUNG	SGHE710	SEC-SGHE710
+SAMSUNG	SGHE810	SEC-SGHE810
+SAMSUNG	SGHN350	SEC-SGHN350/1.0 UP.Browser/5.0.1 (GUI)
+SAMSUNG	SGHP400	SEC-SGHP400
+SAMSUNG	SGHP510	SEC-SGHP510/1.0 UP.Browser/6.2.2.6 (GUI) MMP/1.0
+SAMSUNG	SGHQ200	SEC-SGHQ200/1.0 UP.Browser/4.1.24c
+SAMSUNG	SGHQ300	SEC-SGHQ300/1.0 UP.Browser/5.0.3.2 (GUI)
+SAMSUNG	SGHS100	SEC-SGHS100
+SAMSUNG	SGHS105	SEC-SGHS105 NW.Browser3.01
+SAMSUNG	SGHS208	SEC-SGHS208*MzUxNDEwODkwNjgzNzcw
+SAMSUNG	SGHS300	SEC-SGHS300
+SAMSUNG	SGHS300M	SEC-SGHS300M
+SAMSUNG	SGHS307	SEC-SGHS307 UP.Link/5.1.2.1
+SAMSUNG	SGHT100	SAMSUNG-SGHT100/1.0 UP.Browser/4.1.26b
+SAMSUNG	SGHT108	SAMSUNG-SGHT108/1.0 UP/4.1.19k
+SAMSUNG	SGHT208	SEC-SGHT208/1.0 UP.Browser/5.0.3.3 (GUI)
+SAMSUNG	SGHV200	SEC-SGHV200
+SAMSUNG	SGHV205	SEC-SGHV205 NW.Browser3.01
+SAMSUNG	SGHX105	SEC-SGHX105 NW.Browser3.01
+SAMSUNG	SGHX450	SEC-SGHX450
+SAMSUNG	SH505iS	DoCoMo/1.0/SH505iS/c20/TB/W24H12
+SAMSUNG	SH821i	DoCoMo/1.0/SH821i
+SAMSUNG	SO210i	DoCoMo/1.0/SO210i/c10
+SAMSUNG	SO502i	DoCoMo/1.0/SO502i
+SAMSUNG	SO502iWM	DoCoMo/1.0/SO502iWM/c10
+SAMSUNG	SO503i	DoCoMo/1.0/SO503i/c10
+SAMSUNG	SO503iS	DoCoMo/1.0/SO503iS/c10
+SAMSUNG	SO505i	DoCoMo/1.0/SO505i/c20/TB/W21H09
+SAMSUNG	SPHA540	SEC-SPHA540 UP.Browser/4.1.26l UP.Link/4.3.3.4a
+SAMSUNG	SPHN300	SEC-SPHN300 UP.Browser/4.1.22b1 UP.Link/5.0.2.8
+SAMSUNG	Z105	Mozilla/SMB3(Z105)/Samsung
+SAMSUNG	scha310	SEC-scha310 UP.Browser/4.1.26c3
+SAMSUNG	schn195	SEC-schn195 UP.Browser/4.1.26l UP.Link/4.3.4.1
+SAMSUNG	schn370	SEC-schn370_WAP_DL UP.Browser/4.1.26b UP.Link/5.0.2.7a
+SAMSUNG	spha460	SEC-spha460 UP.Browser/4.1.26c4 UP.Link/5.0.2.8
+SAMSUNG	spha500	SEC-spha500 UP.Browser/4.1.26l UP.Link/5.0.2.7a
+SHARP	TM-100	SHARP-TM-100/1.0 Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Browser/6.2.2.6.c.2.101 (GUI) MMP/1.0 UP
+SHARP	TQ-GX1	SHARP-TQ-GX1/1.0 UP.Browser/6.1.0.5.102 (GUI) MMP/1.0
+SHARP	TQ-GX10	SHARP-TQ-GX10/1.0 Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Browser/6.1.0.3.121c (GUI) MMP/1.0 UP.Link/5.1.1.4
+SHARP	TQ-GX10i	SHARP-TQ-GX10i/1.0 Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Browser/6.1.0.6.1.d.1 (GUI) MMP/1.0
+SHARP	TQ-GX10m	SHARP-TQ-GX10m/1.0 Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Browser/6.1.0.6.1.d.1 (GUI) MMP/1.0
+SHARP	TQ-GX12	SHARP-TQ-GX12/1.0 Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Browser/6.1.0.5.119 (GUI) MMP/1.0
+SHARP	TQ-GX20	SHARP-TQ-GX20/1.0 Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Browser/6.2.2.2.107 (GUI) MMP/1.0
+Sanyo	C304SA	Sanyo-C304SA/2.0 UP/4.1.20e
+Sanyo	PM-8200	Mozilla/4.0 (MobilePhone PM-8200/US/1.0) NetFront/3.1 MMP/2.0
+Sanyo	SCP-4900	Mozilla/4.0 (MobilePhone SCP-4900/1.0) NetFront/3.0 MMP/2.0
+Sanyo	SCP-5300	Mozilla/4.0 (MobilePhone SCP-5300/1.0) NetFront/3.0 MMP/2.0
+Sanyo	SCP-8100	Mozilla/4.0 (MobilePhone SCP-8100/US/1.0) NetFront/3.0 MMP/2.0
+Sanyo	SCP5000	Sanyo-SCP5000/1.1b UP.Browser/4.1.23a
+Sanyo	SCP6200	Sanyo-SCP6200/1.1 UP.Browser/4.1.26c UP.Link/5.0.2.7
+Sendo	M550	SendoM550/226-E-09
+Sendo	S330	SendoS330/14A-G-02
+Sendo	S600	SendoS600/03
+Sendo	X	SendoX/1.0 SymbianOS/6.1 Series60/1.2 Profile/MIDP-1.0 Configuration/CLDC-1.0
+Siemens	2128	SIE-2128/17 UP.Browser/5.0.3.3 (GUI) UP.Link/5.1.1.5c
+Siemens	3618	SIE-3618/01 UP.Browser/5.0.1.1.102 (GUI)
+Siemens	6618	SIE-6618/01 UP.Browser/5.0.1.1.102 (GUI)
+Siemens	6688	SIE-6688/3.1 UP/4.1.19i
+Siemens	A50	SIE-A50/00 UP.Browser/5.0.2.3.100
+Siemens	A55	SIE-A55/05 UP.Browser/5.0.3.3.1.e.4 (GUI)
+Siemens	C3I	SIE-C3I/1.0 UP/4.1.8b
+Siemens	C45	SIE-C45/02 UP.Browser/5.0.1.1.102 (GUI)
+Siemens	C55	SIE-C55/07 UP.Browser/5.0.3.3 (GUI)
+Siemens	C56	SIE-C56/14 UP.Browser/5.0.3.3.1.e.2 (GUI) UP.Link/5.1.2.1
+Siemens	C60	SIE-C60/23 Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Browser/6.1.0.7.3 (GUI) MMP/1.0
+Siemens	C62	SIE-C62/83 UP.Link/5.1.2.10
+Siemens	C65	SIE-C65/08 UP.Browser/7.0.0.1.181 (GUI) MMP/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Siemens	CX65	SIE-CX65/08 UP.Browser/7.0.0.1.181 (GUI) MMP/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Siemens	IC35	SIE-IC35/1.0
+Siemens	M46	SIE-M46/52 UP.Browser/5.0.2.3.100 (GUI)
+Siemens	M50	SIE-M50/07 UP.Browser/5.0.2.2 (GUI)
+Siemens	M50I	SIE-M50I/81 UP.Browser/5.0.2.3.100 (GUI)
+Siemens	M55	SIE-M55/04 UP.Browser/6.1.0.5.c.4 (GUI) MMP/1.0
+Siemens	M65	SIE-M65/06 UP.Browser/7.0.0.1.181 (GUI) MMP/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Link/5.1.
+Siemens	MC60	SIE-MC60/04 UP.Browser/6.1.0.5.c.6 (GUI) MMP/1.0
+Siemens	ME45	SIE-ME45/04 UP.Browser/5.0.3.1.105 (GUI)
+Siemens	MT50	SIE-MT50/07 UP.Browser/5.0.2.2 (GUI)
+Siemens	P35	SIE-P35/1.0
+Siemens	S35	SIE-S35/1.0 UP/4.1.8
+Siemens	S40	SIE-S40/2.3 UP/4.1.16r
+Siemens	S45	SIE-S45/00 UP.Browser/5.0.1.1.102 (GUI)
+Siemens	S45i	SIE-S45i/02 UP.Browser/5.0.3.1.105 (GUI)
+Siemens	S55	SIE-S55/04 UP.Browser/6.1.0.5.119 (GUI) MMP/1.0
+Siemens	S57	SIE-S57/05 UP.Browser/6.1.0.5.121 (GUI) MMP/1.0
+Siemens	SL45	SIE-SL45/1.0 (ccWAP-Browser)
+Siemens	SL55	SIE-SL55/00 UP.Browser/6.1.0.5.c.1 (GUI) MMP/1.0
+Siemens	SLIK	SIE-SLIK/3.1 UP/4.1.19i
+Siemens	SLIN	SIE-SLIN/3.1 UP/4.1.19i UP.Browser/4.1.19i-XXXX UP.Link/5.1.0.2
+Siemens	ST60	SIE-ST60/1.0 UP.Browser/6.1.0.7.4 (GUI) MMP/1.0 UP.Link/5.1.2.10
+Siemens	SX1	SIE-SX1/1.1 SymbianOS/6.1 Series60/1.2 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricsson	CMD-J5	Mozilla/1.22 (compatible; MMEF20; Cellphone; Sony CMD-J5)
+SonyEricsson	CMD-J7/J70	Mozilla/1.22 (compatible; MMEF20; Cellphone; Sony CMD-J7/J70)
+SonyEricsson	CMD-Z5	Mozilla/1.22 (compatible; MMEF20; Cellphone; Sony CMD-Z5)
+SonyEricsson	CMD-Z7	Mozilla/1.22 (compatible; MMEF20; Cellphone; Sony CMD-Z7)
+SonyEricsson	K700i	SonyEricssonK700i/R2A SEMC-Browser/4.0 Profile/MIDP-1.0 MIDP-2.0 Configuration/CLDC-1.1
+SonyEricsson	P800	SonyEricssonP800
+SonyEricsson	P900	SonyEricssonP900/R101 Profile/MIDP-2.0 Configuration/CLDC-1.0
+SonyEricsson	T100	SonyEricssonT100/R101
+SonyEricsson	T200	SonyEricssonT200/R101
+SonyEricsson	T230	SonyEricssonT230/R101
+SonyEricsson	T300	SonyEricssonT300/R101
+SonyEricsson	T306	SonyEricssonT306/R101 UP.Link/5.1.1.1a
+SonyEricsson	T310	SonyEricssonT310/R201
+SonyEricsson	T312	SonyEricssonT312/R201
+SonyEricsson	T316	SonyEricssonT316/R101
+SonyEricsson	T600	SonyEricssonT600
+SonyEricsson	T610	SonyEricssonT610/R101 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricsson	T630	SonyEricssonT630/R401 Profile/MIDP-1.0 Configuration/CLDC-1.0
+SonyEricsson	T68	SonyEricssonT68
+SonyEricsson	T68i	SonyEricssonT68i/R101
+SonyEricsson	Z1010	SonyEricssonZ1010/R1A Profile/MIDP-1.0 MIDP2.0 Configurationn/CLDC-1.1 UP.Link/5.1.1.5
+SonyEricsson	Z200	SonyEricssonZ200/R101
+SonyEricsson	Z600	SonyEricssonZ600/R301 Profile/MIDP-1.0 Configuration/CLDC-1.0
+Telit	G80	Telit-G80/2.01 UP.Browser/6.1.0.6 (GUI) MMP/1.0
+Telit	GM882	Telit_Mobile_Terminals-GM882/1.02 UP.Browser/5.0.3.3 (GUI)
+Toshiba	TS21i-10	portalmmm/1.0 TS21i-10(;ser123456789012345;icc1234567890123456789F)
+Vitelcom	Feature Phone	Vitelcom-Feature Phone1.0 UP.Browser/5.0.2.2(GUI)
+Vitelcom	TSM-100	TSM-100
+Vitelcom	TSM-100v	TSM-100v/40100012 Browser/1.2.1 Profile/MIDP-1.0 Configuration/CLDC-1.0
+Vitelcom	TSM-5	TSM-5/2.2 UP.Browser/5.0.2.2 (GUI)
+Vitelcom	TSM-5m	TSM-5m/1.3.8.5 UP.Browser/6.2.2.4.g.1.100 (GUI)
+Vitelcom	TSM-6	TSM-6/7.12.2 Teleca/1.1.13.4 Profile/MIDP-1.0 Configuration/CLDC-1.0 UP.Link/5.1.15
+Vitelcom	TSM100v	TSM100v/40100012 Browser/1.2.1 Profile/MIDP-1.0 Configuration/CLDC-1.0
