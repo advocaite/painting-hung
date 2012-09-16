@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<note><content><![CDATA[﻿<span style="padding-left:20px; font-size:18px;"><strong>Nỏ binh</strong></span>
+<table border="0" cellspacing="0" cellpadding="0" style="font-size:1em;">
+<tr>
+<td valign="top" style="padding-top:15px;"><img src="images/troops/sunda4.png" width="175" height="200" ></td>
+<td style="padding-right:10px;">
+<table border="0" cellspacing="0" cellpadding="0" style="font-size:1em;">
+<tr>
+    <td class="pd">
+	<table class="tbg" width="308" cellpadding="2" cellspacing="1" style="font-size:1em;" >
+		<tbody>
+		<tr class="rbg" align="center">
+			<td width="36"><img src="images/misc/attack_all.ico" alt="Sức tấn công" title="Sức tấn công"></td>
+			<td width="32"><img src="images/misc/thubo.ico" title="Phòng thủ với Bộ Binh"></td>
+			<td width="35"><img src="images/misc/thungua.ico" title="Phòng thủ với Kỵ Binh"></td>
+			<td width="35"><img src="images/misc/thucung.ico" title="Phòng thủ với Cung"></td>
+			<td width="32"><img class="res" src="images/un/r/1.gif" alt="Gỗ"></td>
+			<td width="32"><img class="res" src="images/un/r/2.gif" alt="Đá"></td>
+			<td width="32"><img class="res" src="images/un/r/3.gif" alt="Sắt"></td>
+			<td width="34"><img class="res" src="images/un/r/4.gif" alt="Lúa"></td>
+		</tr>
+		<tr>
+			<td>65</td>
+			<td>65</td>
+			<td>45</td>
+			<td>55</td>
+			<td>175</td>
+			<td>180</td>
+			<td>170</td>
+			<td>70</td>
+		</tr>
+		</tbody>
+	</table>
+	</td>
+  </tr>
+  <tr>
+    <td style="text-align:justify"><strong>Yêu cầu:</strong> Học viện cấp 5, Lò rèn cấp 5 </td>
+  </tr>
+  <tr>
+    <td style="text-align:justify">Nỏ binh là chiến binh có khả năng gây sát thương cao trong số các cung thủ. Thủ của Nỏ binh cũng khá cao. </td>
+  </tr>
+  <tr>
+    <td>&raquo; Nghiên cứu: <img src="images/misc/go.gif" alt="gỗ"> 1300 | <img src="images/misc/da.gif" alt="đá"> 800 | <img src="images/misc/sat.gif" alt="sắt"> 560 | <img src="images/misc/lua.gif" alt="lúa"> 560 | <img src="images/un/a/clock.gif"> 0:53:20 </td>
+  </tr>
+  <tr>
+    <td>&raquo; Tốc độ: 18 ô/h</td>
+  </tr>
+  <tr>
+    <td>&raquo; Mang vác: 70 Tài nguyên</td>
+  </tr>
+  <tr>
+    <td>&raquo; Tiêu hao: 1 <img src="images/misc/tieuhao.gif" alt="tieuhao">/h</td>
+  </tr>
+  <tr>
+    <td>&raquo; Thời gian huấn luyện: 0:18:45 với Doanh trại cấp 1</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table></td>
+</tr>
+</table>
+]]></content>
+</note>

@@ -1,0 +1,1 @@
+<div class="f10 e b">{message}</div>

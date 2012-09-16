@@ -1,0 +1,1 @@
+<a href="javascript:void(0)" onclick = "showTroopMoveStatus('popup_div', {id});document.getElementById('dragDiv1').style.display='block';document.getElementById('fade').style.display='block'">{mui_ten} {sum} {title} {in} <span id="timer{timer}">{duration}</span>{hrs}</a><br />

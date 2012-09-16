@@ -1,0 +1,1 @@
+<img class='d{number}' src='{link_img}'>

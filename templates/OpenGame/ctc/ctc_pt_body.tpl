@@ -1,0 +1,115 @@
+
+<div class="bangdiem">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <th>Lượt</th>
+    <th>Thời gian</th>
+    <th>Kim</th>
+    <th>Thuỷ</th>
+    <th>Mộc</th>
+    <th>Hoả</th>
+    <th>Thổ</th>
+    <th>Bên thắng</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>{t_1}</td>
+    <td>{img_1_1}</td>
+    <td>{img_1_2}</td>
+    <td>{img_1_3}</td>
+    <td>{img_1_4}</td>
+    <td>{img_1_5}</td>
+    <td>{img_1_7}</td>
+  </tr>
+  <tr class="changecolor">
+    <td>2</td>
+    <td>{t_2}</td>
+    <td>{img_2_1}</td>
+    <td>{img_2_2}</td>
+    <td>{img_2_3}</td>
+    <td>{img_2_4}</td>
+    <td>{img_2_5}</td>
+    <td>{img_2_7}</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>{t_3}</td>
+    <td>{img_3_1}</td>
+    <td>{img_3_2}</td>
+    <td>{img_3_3}</td>
+    <td>{img_3_4}</td>
+    <td>{img_3_5}</td>
+    <td>{img_3_7}</td>
+  </tr>
+  <tr class="changecolor">
+    <td>4</td>
+    <td>{t_4}</td>
+    <td>{img_4_1}</td>
+    <td>{img_4_2}</td>
+    <td>{img_4_3}</td>
+    <td>{img_4_4}</td>
+    <td>{img_4_5}</td>
+    <td>{img_4_7}</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>{t_5}</td>
+    <td>{img_5_1}</td>
+    <td>{img_5_2}</td>
+    <td>{img_5_3}</td>
+    <td>{img_5_4}</td>
+    <td>{img_5_5}</td>
+    <td>{img_5_7}</td>
+  </tr>
+  <tr class="changecolor">
+    <td>6</td>
+    <td>{t_6}</td>
+    <td>{img_6_1}</td>
+    <td>{img_6_2}</td>
+    <td>{img_6_3}</td>
+    <td>{img_6_4}</td>
+    <td>{img_6_5}</td>
+    <td>{img_6_7}</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>{t_7}</td>
+    <td>{img_7_1}</td>
+    <td>{img_7_2}</td>
+    <td>{img_7_3}</td>
+    <td>{img_7_4}</td>
+    <td>{img_7_5}</td>
+    <td>{img_7_7}</td>
+  </tr>
+  <tr class="changecolor">
+    <td>8</td>
+    <td>{t_8}</td>
+    <td>{img_8_1}</td>
+    <td>{img_8_2}</td>
+    <td>{img_8_3}</td>
+    <td>{img_8_4}</td>
+    <td>{img_8_5}</td>
+    <td>{img_8_7}</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>{t_9}</td>
+    <td>{img_9_1}</td>
+    <td>{img_9_2}</td>
+    <td>{img_9_3}</td>
+    <td>{img_9_4}</td>
+    <td>{img_9_5}</td>
+    <td>{img_9_7}</td>
+  </tr>
+  <tr class="changecolor">
+    <td>10</td>
+    <td>{t_10}</td>
+    <td>{img_10_1}</td>
+    <td>{img_10_2}</td>
+    <td>{img_10_3}</td>
+    <td>{img_10_4}</td>
+    <td>{img_10_5}</td>
+    <td>{img_10_7}</td>
+  </tr>
+</table>
+</div>

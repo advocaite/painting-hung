@@ -1,0 +1,1 @@
+<img src="images/un/g/s/s{ptu_level}.gif" id="or{ptu_index}" class="or{ptu_index}">

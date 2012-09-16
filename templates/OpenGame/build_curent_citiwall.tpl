@@ -1,0 +1,1 @@
+<p>{136}: <strong>{num_percent} %</strong></p>

@@ -1,0 +1,1 @@
+ <div id="EventServer"><center><strong>{event_server}</strong><br />{retaining}</center></div>

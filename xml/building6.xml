@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+				<note>
+				<content><![CDATA[<p><span style=" font-size:18px;"><strong>Xưởng cưa</strong></span></p>
+<table style="font-size:1em;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="max-width:200px; padding:5px;" valign="top"><img src="images/buildings/gid5.png" alt="" /></td>
+<td style="padding:0 10px" align="justify" valign="top"><strong>Y&ecirc;u cầu:</strong> <a href="viewbuilding.php?id=1">L&acirc;m trường </a> Cấp độ 10, <a href="viewbuilding.php?id=12">Dinh thự</a> Cấp độ 5.
+<p><strong>T</strong>hợ mộc ở xưởng sẽ l&agrave;m tăng năng suất cung cấp gỗ cho x&acirc;y dựng. Mỗi cấp được tăng sẽ gi&uacute;p  bạn 5% năng suất.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>C</strong><strong>ấp độ c&ocirc;ng tr&igrave;nh</strong></p>
+<table class="tbg" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td>Cấp độ</td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/go.gif" alt="Lumber" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/da.gif" alt="Clay" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/sat.gif" alt="Sắt" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/lua.gif" alt="L&uacute;a" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/tieuhao.gif" alt="ti&ecirc;u hao" /></td>
+<td>DV</td>
+<td>Hỗ trợ</td>
+</tr>
+<tr>
+<td>1</td>
+<td height="21" align="right">510</td>
+<td align="right">430</td>
+<td align="right">390</td>
+<td align="right">1230</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td align="right">5%</td>
+</tr>
+<tr>
+<td>2</td>
+<td height="21" align="right">918</td>
+<td align="right">774</td>
+<td align="right">702</td>
+<td align="right">2214</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td align="right">10%</td>
+</tr>
+<tr>
+<td>3</td>
+<td height="21" align="right">1652</td>
+<td align="right">1393</td>
+<td align="right">1264</td>
+<td align="right">3985</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td align="right">15%</td>
+</tr>
+<tr>
+<td>4</td>
+<td height="21" align="right">2974</td>
+<td align="right">2507</td>
+<td align="right">2275</td>
+<td align="right">7173</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td align="right">20%</td>
+</tr>
+<tr>
+<td>5</td>
+<td height="21" align="right">5353</td>
+<td align="right">4513</td>
+<td align="right">4095</td>
+<td align="right">12911</td>
+<td align="right">2</td>
+<td align="right">2</td>
+<td align="right">25%</td>
+</tr>
+<tr>
+<td>Tổng TN</td>
+<td><strong>11407 </strong></td>
+<td><strong>9617 </strong></td>
+<td><strong>8726 </strong></td>
+<td><strong>27513 </strong></td>
+<td><strong>8</strong></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>]]></content>
+				</note>

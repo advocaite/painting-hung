@@ -1,0 +1,1 @@
+{loyalty_canbe_down} {new_faith}{percent}

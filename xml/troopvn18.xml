@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<note><content><![CDATA[﻿<span style="padding-left:20px; font-size:18px;"><strong>Trường thương kỵ</strong></span>
+<table border="0" cellspacing="0" cellpadding="0" style="font-size:1em;">
+<tr>
+<td valign="top" style="padding-top:15px;"><img src="images/troops/arabia7.png" width="175" height="200" ></td>
+<td style="padding-right:10px;">
+<table border="0" cellspacing="0" cellpadding="0" style="font-size:1em;">
+<tr>
+    <td class="pd">
+	<table class="tbg" width="308" cellpadding="2" cellspacing="1" style="font-size:1em;" >
+		<tbody>
+		<tr class="rbg" align="center">
+			<td width="36"><img src="images/misc/attack_all.ico" alt="Sức tấn công" title="Sức tấn công"></td>
+			<td width="32"><img src="images/misc/thubo.ico" title="Phòng thủ với Bộ Binh"></td>
+			<td width="35"><img src="images/misc/thungua.ico" title="Phòng thủ với Kỵ Binh"></td>
+			<td width="35"><img src="images/misc/thucung.ico" title="Phòng thủ với Cung"></td>
+			<td width="32"><img class="res" src="images/un/r/1.gif" alt="Gỗ"></td>
+			<td width="32"><img class="res" src="images/un/r/2.gif" alt="Đá"></td>
+			<td width="32"><img class="res" src="images/un/r/3.gif" alt="Sắt"></td>
+			<td width="34"><img class="res" src="images/un/r/4.gif" alt="Lúa"></td>
+		</tr>
+		<tr>
+			<td>150</td>
+			<td>60</td>
+			<td>90</td>
+			<td>75</td>
+			<td>570</td>
+			<td>630</td>
+			<td>780</td>
+			<td>180</td>
+		</tr>
+		</tbody>
+	</table>
+	</td>
+  </tr>
+  <tr>
+    <td style="text-align:justify"><strong>Yêu cầu:</strong> Học viện cấp 10, Trại ngựa cấp 5 </td>
+  </tr>
+  <tr>
+    <td style="text-align:justify">Trường thương kỵ là kỵ binh mạnh nhất, khả năng công thủ khá toàn diện, sức khỏe tốt tuy nhiên tốc độ hơi chậm.</td>
+  </tr>
+  <tr>
+    <td>&raquo; Nghiên cứu: <img src="images/misc/go.gif" alt="gỗ"> 3400 | <img src="images/misc/da.gif" alt="đá"> 2660 | <img src="images/misc/sat.gif" alt="sắt"> 6600 | <img src="images/misc/lua.gif" alt="lúa"> 1200 | <img src="images/un/a/clock.gif"> 1:26:40 </td>
+  </tr>
+  <tr>
+    <td>&raquo; Tốc độ: 24 ô/h</td>
+  </tr>
+  <tr>
+    <td>&raquo; Mang vác: 80 Tài nguyên</td>
+  </tr>
+  <tr>
+    <td>&raquo; Tiêu hao: 3 <img src="images/misc/tieuhao.gif" alt="tieuhao">/h</td>
+  </tr>
+  <tr>
+    <td>&raquo; Thời gian huấn luyện: 0:32:30 với Trại ngựa cấp 1</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table></td>
+</tr>
+</table>
+]]></content>
+</note>

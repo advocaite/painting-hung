@@ -1,0 +1,1 @@
+<td><a href="build.php?id={id}&t={t}&o={offer_id}">{Accept offer}</a></td>

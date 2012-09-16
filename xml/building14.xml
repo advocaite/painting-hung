@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+				<note>
+				<content><![CDATA[<p><span style=" font-size:18px;"><strong>Đại sứ qu&aacute;n</strong></span></p>
+<table style="font-size:1em;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="max-width:200px;" valign="top"><img src="images/buildings/gid18.png" alt="" /></td>
+<td style="padding:0 10px" align="justify" valign="top"><strong>L</strong>&agrave; nơi ngoại giao, li&ecirc;n minh, kết bạn giữa nước n&agrave;y với nước kh&aacute;c.Chỉ x&acirc;y duy nhất 1 đại sứ tại th&agrave;nh thủ đ&ocirc; , ở cấp 1 bạn chỉ được tham gia v&agrave;o 1 li&ecirc;n minh. Khi đại sứ qu&aacute;n l&ecirc;n cấp 3, bạn c&oacute; thể tự lập li&ecirc;n minh ri&ecirc;ng nếu như chưa gia nhập li&ecirc;n minh kh&aacute;c. Số lượng th&agrave;nh vi&ecirc;n của li&ecirc;n minh thay đổi t&ugrave;y v&agrave;o cấp độ của đại sứ qu&aacute;n. Khi tổng số th&agrave;nh người chơi &gt;=2 người chơi c&oacute; thể chuyển thủ đ&ocirc; bằng c&aacute;ch x&oacute;a t&ograve;a đại sứ ở th&agrave;nh hiện tại v&agrave; x&acirc;y tr&ecirc;n th&agrave;nh mới với cấp độ &gt;=5.<br /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cấp độ c&ocirc;ng tr&igrave;nh v&agrave; khả năng kết nạp th&agrave;nh vi&ecirc;n </strong></p>
+<table class="tbg" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr class="rbg">
+<td>Cấp độ</td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/go.gif" alt="Lumber" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/da.gif" alt="Clay" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/sat.gif" alt="Sắt" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/lua.gif" alt="L&uacute;a" /></td>
+<td><img style="border: 0px none; height: 12px; width: 18px;" src="images/misc/tieuhao.gif" alt="L&uacute;a usage" /></td>
+<td>DV</td>
+<td>Số th&agrave;nh vi&ecirc;n</td>
+</tr>
+<tr>
+<td>1</td>
+<td height="21" align="right">180</td>
+<td align="right">130</td>
+<td align="right">150</td>
+<td align="right">80</td>
+<td align="right">2</td>
+<td align="right">5</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td>2</td>
+<td height="21" align="right">230</td>
+<td align="right">166</td>
+<td align="right">192</td>
+<td align="right">102</td>
+<td align="right">2</td>
+<td align="right">5</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td>3</td>
+<td height="21" align="right">294</td>
+<td align="right">212</td>
+<td align="right">246</td>
+<td align="right">131</td>
+<td align="right">3</td>
+<td align="right">6</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td>4</td>
+<td height="21" align="right">376</td>
+<td align="right">271</td>
+<td align="right">315</td>
+<td align="right">168</td>
+<td align="right">3</td>
+<td align="right">7</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td>5</td>
+<td height="21" align="right">481</td>
+<td align="right">347</td>
+<td align="right">403</td>
+<td align="right">215</td>
+<td align="right">3</td>
+<td align="right">8</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td>6</td>
+<td height="21" align="right">616</td>
+<td align="right">444</td>
+<td align="right">516</td>
+<td align="right">275</td>
+<td align="right">3</td>
+<td align="right">10</td>
+<td align="right">18</td>
+</tr>
+<tr>
+<td>7</td>
+<td height="21" align="right">788</td>
+<td align="right">568</td>
+<td align="right">660</td>
+<td align="right">352</td>
+<td align="right">3</td>
+<td align="right">13</td>
+<td align="right">21</td>
+</tr>
+<tr>
+<td>8</td>
+<td height="21" align="right">1009</td>
+<td align="right">727</td>
+<td align="right">845</td>
+<td align="right">451</td>
+<td align="right">4</td>
+<td align="right">17</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td>9</td>
+<td height="21" align="right">1292</td>
+<td align="right">931</td>
+<td align="right">1082</td>
+<td align="right">577</td>
+<td align="right">4</td>
+<td align="right">22</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td>10</td>
+<td height="21" align="right">1654</td>
+<td align="right">1192</td>
+<td align="right">1385</td>
+<td align="right">739</td>
+<td align="right">4</td>
+<td align="right">29</td>
+<td align="right">30</td>
+</tr>
+<tr>
+<td>11</td>
+<td height="21" align="right">2117</td>
+<td align="right">1526</td>
+<td align="right">1773</td>
+<td align="right">946</td>
+<td align="right">4</td>
+<td align="right">37</td>
+<td align="right">33</td>
+</tr>
+<tr>
+<td>12</td>
+<td height="21" align="right">2710</td>
+<td align="right">1953</td>
+<td align="right">2269</td>
+<td align="right">1211</td>
+<td align="right">4</td>
+<td align="right">46</td>
+<td align="right">36</td>
+</tr>
+<tr>
+<td>13</td>
+<td height="21" align="right">3469</td>
+<td align="right">2500</td>
+<td align="right">2904</td>
+<td align="right">1550</td>
+<td align="right">5</td>
+<td align="right">58</td>
+<td align="right">39</td>
+</tr>
+<tr>
+<td>14</td>
+<td height="21" align="right">4440</td>
+<td align="right">3200</td>
+<td align="right">3717</td>
+<td align="right">1984</td>
+<td align="right">5</td>
+<td align="right">71</td>
+<td align="right">42</td>
+</tr>
+<tr>
+<td>15</td>
+<td height="21" align="right">5683</td>
+<td align="right">4096</td>
+<td align="right">4758</td>
+<td align="right">2540</td>
+<td align="right">5</td>
+<td align="right">86</td>
+<td align="right">45</td>
+</tr>
+<tr>
+<td>16</td>
+<td height="21" align="right">7274</td>
+<td align="right">5243</td>
+<td align="right">6090</td>
+<td align="right">3251</td>
+<td align="right">5</td>
+<td align="right">103</td>
+<td align="right">48</td>
+</tr>
+<tr>
+<td>17</td>
+<td height="21" align="right">9311</td>
+<td align="right">6711</td>
+<td align="right">7795</td>
+<td align="right">4161</td>
+<td align="right">5</td>
+<td align="right">123</td>
+<td align="right">51</td>
+</tr>
+<tr>
+<td>18</td>
+<td height="21" align="right">11918</td>
+<td align="right">8590</td>
+<td align="right">9978</td>
+<td align="right">5326</td>
+<td align="right">6</td>
+<td align="right">145</td>
+<td align="right">54</td>
+</tr>
+<tr>
+<td>19</td>
+<td height="21" align="right">15255</td>
+<td align="right">10995</td>
+<td align="right">12772</td>
+<td align="right">6817</td>
+<td align="right">6</td>
+<td align="right">170</td>
+<td align="right">57</td>
+</tr>
+<tr>
+<td>20</td>
+<td height="21" align="right">19526</td>
+<td align="right">14074</td>
+<td align="right">16348</td>
+<td align="right">8726</td>
+<td align="right">6</td>
+<td align="right">197</td>
+<td align="right">60</td>
+</tr>
+<tr>
+<td>Tổng TN</td>
+<td><strong>88623</strong></td>
+<td><strong>63876</strong></td>
+<td><strong>74194</strong></td>
+<td><strong>39602</strong></td>
+<td><strong>82</strong></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>]]></content>
+				</note>

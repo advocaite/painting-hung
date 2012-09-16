@@ -1,0 +1,1 @@
+<div id="fixmetoo" style="z-index:100;" onclick="OpenChatBox();">{WindowChat}</div>

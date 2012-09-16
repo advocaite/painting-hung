@@ -1,0 +1,1 @@
+<input class="fm" type="text" name="{name}" value="{value}" size="1" maxlength="5">

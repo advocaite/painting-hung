@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+				<note>
+				<content><![CDATA[<table style="padding-top: 10px; width: 100%;" border="0" cellspacing="1" cellpadding="2">
+<tbody>
+<tr>
+<td colspan="8" align="center">
+<h2>C&aacute;c loại c&ocirc;ng tr&igrave;nh</h2>
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="viewbuilding.php?id=1">L&acirc;m trường</a></td>
+<td>10</td>
+<td><a href="viewbuilding.php?id=10">Nh&agrave; Kho</a></td>
+<td>19</td>
+<td><a href="viewbuilding.php?id=19">Đại&nbsp; Bản Doanh</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="viewbuilding.php?id=2">Đồng L&uacute;a</a></td>
+<td>11</td>
+<td><a href="viewbuilding.php?id=11">Kho Lương</a></td>
+<td>20</td>
+<td><a href="viewbuilding.php?id=20">Doanh Trại</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="viewbuilding.php?id=3">Mỏ sắt</a></td>
+<td>12</td>
+<td><a href="viewbuilding.php?id=12">Dinh Thự</a></td>
+<td>21</td>
+<td><a href="viewbuilding.php?id=21">Trại Ngựa</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="viewbuilding.php?id=4">Mỏ Đ&aacute;</a></td>
+<td>13</td>
+<td><a href="viewbuilding.php?id=13">Chợ</a></td>
+<td>22</td>
+<td><a href="viewbuilding.php?id=22">C&ocirc;ng Xưởng</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="viewbuilding.php?id=5">Cối Xay</a></td>
+<td>14</td>
+<td><a href="viewbuilding.php?id=14">Đại Sứ Qu&aacute;n</a></td>
+<td>23</td>
+<td><a href="viewbuilding.php?id=23">Học Viện</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="viewbuilding.php?id=6">Xưởng Cưa</a></td>
+<td>15</td>
+<td><a href="viewbuilding.php?id=15">Thạch Thất</a></td>
+<td>24</td>
+<td><a href="viewbuilding.php?id=24">Tướng Phu</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="viewbuilding.php?id=7">Xưởng Tạc Đ&aacute;</a></td>
+<td>16</td>
+<td><a href="viewbuilding.php?id=16">Cung Điện</a></td>
+<td>25</td>
+<td><a href="viewbuilding.php?id=25">Tường Th&agrave;nh</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="viewbuilding.php?id=8">L&ograve; Luyện Th&eacute;p</a></td>
+<td>17</td>
+<td><a href="viewbuilding.php?id=17">Thương Hội</a></td>
+<td>26</td>
+<td><a href="viewbuilding.php?id=26">Kỳ đ&agrave;i</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="viewbuilding.php?id=9">L&ograve; b&aacute;nh bao</a></td>
+<td>18</td>
+<td><a href="viewbuilding.php?id=18">L&ograve; R&egrave;n</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>]]></content>
+				</note>

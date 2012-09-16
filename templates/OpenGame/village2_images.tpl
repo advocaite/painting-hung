@@ -1,0 +1,1 @@
+<img class='d{number}' src='images/un/g/{name_img}.png'>
