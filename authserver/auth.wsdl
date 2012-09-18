@@ -8,26 +8,70 @@
   xmlns:wsdl='http://schemas.xmlsoap.org/wsdl/'
   xmlns='http://schemas.xmlsoap.org/wsdl/'>
 
-<message name='test_functionRequest'>
+<message name='update_statusRequest'>
   <part name='upc' type='xsd:string'/>
   <part name='upd' type='xsd:string'/>
 </message>
-<message name='test_functionResponse'>
+<message name='update_statusResponse'>
+  <part name='Result' type='xsd:string'/>
+</message>
+<message name='getProfileRequest'>
+  <part name='upc' type='xsd:string'/>
+  <part name='upd' type='xsd:string'/>
+</message>
+<message name='getProfileResponse'>
+  <part name='Result' type='xsd:string'/>
+</message>
+<message name='loginRequest'>
+  <part name='upc' type='xsd:string'/>
+  <part name='upd' type='xsd:string'/>
+</message>
+<message name='loginResponse'>
   <part name='Result' type='xsd:string'/>
 </message>
 
 <portType name='AuthPortType'>
-  <operation name='test_function'>
-    <input message='tns:test_functionRequest'/>
-    <output message='tns:test_functionResponse'/>
+  <operation name='update_status'>
+    <input message='tns:update_statusRequest'/>
+    <output message='tns:update_statusResponse'/>
+  </operation>
+ <operation name='getProfile'>
+    <input message='tns:getProfileRequest'/>
+    <output message='tns:getProfileResponse'/>
+  </operation>
+ <operation name='login'>
+    <input message='tns:loginRequest'/>
+    <output message='tns:loginResponse'/>
   </operation>
 </portType>
 
 <binding name='AuthBinding' type='tns:AuthPortType'>
   <soap:binding style='rpc'
     transport='http://schemas.xmlsoap.org/soap/http'/>
-  <operation name='test_function'>
-    <soap:operation soapAction='urn:xmethods-delayed-quotes#test_function'/>
+  <operation name='update_status'>
+    <soap:operation soapAction='urn:xmethods-delayed-quotes#update_status'/>
+    <input>
+      <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
+        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+    </input>
+    <output>
+      <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
+        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+    </output>
+  </operation>
+  <operation name='getProfile'>
+    <soap:operation soapAction='urn:xmethods-delayed-quotes#getProfile'/>
+    <input>
+      <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
+        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+    </input>
+    <output>
+      <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
+        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+    </output>
+  </operation>
+  <operation name='login'>
+    <soap:operation soapAction='urn:xmethods-delayed-quotes#login'/>
     <input>
       <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
         encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
@@ -41,7 +85,7 @@
 
 <service name='AuthService'>
   <port name='AuthPort' binding='AuthBinding'>
-    <soap:address location='http://yourdomain.com/soap/server.php'/>
+    <soap:address location='http://auth.yourdomain.com/soap/server.php'/>
   </port>
 </service>
 </definitions>

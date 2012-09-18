@@ -1,3 +1,8 @@
-this is a basic soap server with one fuction called test function i have commented it as best i can for you guys i leave it upto for now to recreate new fuctions like login and profile functions
+This is a working soap server
+please edit config.php with db details 
+also please edit auth.wsdl file at bootom put your domain i use auth.yourdomain.com
+these files use the auth database include in this git hub release
 
-enjoy remeber to follow me and like 
+the auth server is copyrighted to advocaite any decompiling is fobidden
+
+updates will be release as i update auth server

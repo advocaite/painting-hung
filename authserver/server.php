@@ -1,12 +1,14 @@
-<?php
-//include functions for server here (personal preferance you can include them in this file too)
-require 'auth_functions.php';
-
-ini_set("soap.wsdl_cache_enabled", "0"); // disabling WSDL cache
-//Start soap server linked to root dir .wsdl
-$server = new SoapServer("auth.wsdl");
-//Buils server function function must be included in functions file
-$server->addFunction("test_function");
-//handle shit
-$server->handle();
-?>
+HR+cPxQIny2LOF/CzsGjKkEgYY/Q7uWnUwyw6PgyrapAz6LhxOdrsz8naCgp6b4KIT1Fqv/YMHfZ
+FRP7VvthSAJ1BSBGPku2xAx/E7bAAFMJv/KiOQDbJbdjotUvlJZkf0AqYQR+dul5QXGNH8wtr3ic
+wWMkjW0f/sz8eF5DYJI77neZCp8fh02A9capgjVgaca6/X4g741nY7W1c8rSwFH8uu6kZAbxFJ+O
+4L9YJcqPhS51DBh2+y4x6svNZzCwq2sFz2NTHP2sX6TeVx7KVkuPBMHQV+fhTZLPR3jbG+DZRY2N
+p0oO13WPGVyjI9Kw+uglIma56j9OZ82VGHx0ZrVakWCdttX4r2ky4VjTze0RQpwBnT3H2BI8NKBS
+L816on6gVMG0FQsziBxw8taW3fGVtnDyGhynY0EZLcfMYzvznT/PThMEk+JpdSmDywrEv7s7cO9e
+3u0Sb6976bCn7o/EuR6IzcmLfWGS9fX0T4vso+uAfCpUkxTFha8vNxVPmsTkyD8Wqh6O/76dc/Oi
+bubZhGBr3nxfxk8RbjS6duxaBNlEn055BT6uRhRob6wgBAa6Sh8emMoFalcSfNQXeOMDKFDzvIA3
+HpOVcKLlh/19iV1nNMxA/7oDGcEzyLxsHTBPxgyvp+MoN6bfX9D+kiLgtL55f1plMq1dAHo/6MMa
+t8JM7e+sG7PNJoqWSW0CH1fdpmhzyrggMeAGABr9yE3NNOuDeWEMvrV+PSBkSGf87N5VWmVLRVXD
+B09HCgKDh+7ehGG7SsDkW7Ci9vArCbB36koO7wqmYmx/Bjq/XDS1egMin5PMjUPg3r/N3c+U98cN
+MoZtwWOVQQ/U8oGpKM/NQp1ZlIePA3JhR9JRTRXdG76iNsD9/Wq4xEfNcqui25zvXZ2F0OahZ0GC
+EPCIb2tL9EQ2mBy3tRhjJbdbjux6LiyXBjCA2WmsXLHaaiJ/8l1sHrwZGHtRVdl9+cavhM6eaFIG
+2wRyzoFJ
