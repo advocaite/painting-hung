@@ -90,11 +90,13 @@ if (!isset($_SESSION['game_config']))
     $db->setQuery($sql);
     $configs = null;
     $configs = $db->loadObjectList();
-
-    foreach ($configs as $config)
-    {
-        $game_config[$config->config_name] = $config->config_value;
-    }
+    if( is_array( $configs ) )
+	{
+		foreach ($configs as $config)
+		{
+			$game_config[$config->config_name] = $config->config_value;
+		}
+	}
 
     if ($time < $time_end && $time >= $time_start)
     {
