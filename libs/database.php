@@ -78,7 +78,7 @@ class og_database {
 					exit();
 				}
 			}
-		} else {		
+		} else {
 			if (!($this->_resource = @mysql_connect( $host, $user, $pass, true ))) {
 				$mosSystemError = 2;
 				if ($goOffline) {
@@ -135,7 +135,7 @@ class og_database {
 		} else 	{
 			$string = mysql_real_escape_string($text);
 		}
-		
+
 		return $string;
 	}
 	/**
@@ -155,7 +155,7 @@ class og_database {
 		if (strlen( $q ) == 1) {
 			return $q . $s . $q;
 		} else {
-			return $q{0} . $s . $q{1};
+			return $q[0] . $s . $q[1];
 		}
 	}
 	/**
@@ -241,7 +241,7 @@ class og_database {
 					break;
 				}
 				$l = $k - 1;
-				while ($l >= 0 && $sql{$l} == '\\') {
+				while ($l >= 0 && $sql[$l] == '\\') {
 					$l--;
 					$escaped = !$escaped;
 				}
@@ -277,7 +277,7 @@ class og_database {
 		global $mosConfig_debug;
 		if ($this->_limit > 0 || $this->_offset > 0) {
 			$this->_sql .= "\nLIMIT $this->_offset, $this->_limit";
-		}		
+		}
 		if ($this->_debug) {
 			$this->_ticker++;
 	  		$this->_log[] = $this->_sql;

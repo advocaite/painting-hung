@@ -1,0 +1,12 @@
+{
+    "name": "idiot/painting-hung",
+    "description": "VN based Travian",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Idiot\\PaintingHung\\": "src/"
+        }
+    },
+    "require": {}
+}

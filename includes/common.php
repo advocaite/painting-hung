@@ -10,7 +10,7 @@ define('VERSION', '8.1a');
 
 error_reporting(E_ERROR | E_WARNING | E_PARSE);
 
-set_magic_quotes_runtime(0);
+
 
 extract($_POST, EXTR_SKIP);
 
