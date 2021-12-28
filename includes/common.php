@@ -1,4 +1,5 @@
 <?php
+
 if (!defined('INSIDE'))
 {
     die("Hacking attempt");
@@ -63,8 +64,6 @@ else
     define('DEFAULT_LANG', 'en');
 }
 
-define('DEFAULT_LANG', 'vi');
-
 include($ugamela_root_path . 'includes/debug.class.' . $phpEx);
 
 $debug = new debug;
@@ -73,7 +72,7 @@ include($ugamela_root_path . 'includes/constants.' . $phpEx);
 
 include($ugamela_root_path . 'includes/functions.' . $phpEx);
 
-include($ugamela_root_path . 'includes/db.' . $phpEx);
+//include($ugamela_root_path . 'includes/db.' . $phpEx);
 
 include($ugamela_root_path . 'includes/strings.' . $phpEx);
 
@@ -87,14 +86,13 @@ if (!isset($_SESSION['game_config']))
     $game_config = array ();
 
     $sql = "SELECT * FROM wg_config";
-    $db->setQuery($sql);
     $configs = null;
-    $configs = $db->loadObjectList();
+    $configs=$db->select('*')->from('wg_config')->toList();
     if( is_array( $configs ) )
 	{
 		foreach ($configs as $config)
 		{
-			$game_config[$config->config_name] = $config->config_value;
+			$game_config[$config['config_name']] = $config['config_value'];
 		}
 	}
 

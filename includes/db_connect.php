@@ -1,18 +1,10 @@
 <?php
 defined ('INSIDE') or die('Restricted access');
-
+use eftec\PdoOne;
 global $db;
 require ($ugamela_root_path . '/config.php');
-require_once ($ugamela_root_path . "/libs/database.php");
-date_default_timezone_set ("Asia/Bangkok");
-$db=new og_database($dbsettings["server"], $dbsettings["user"], $dbsettings["pass"], $dbsettings["name"],
-                    $dbsettings["prefix"]);
-
-if ($db->getErrorNum())
-    {
-    echo "can not connect database";
-    exit();
-    }
-
-//$db->debug($conf->debug);
+// mysql
+$db=new PdoOne("mysql",$dbsettings["server"],$dbsettings["user"],$dbsettings["pass"],$dbsettings["name"],"");
+//$db->logLevel=3; // it is for debug purpose and it works to find problems.
+$db->connect();
 ?>

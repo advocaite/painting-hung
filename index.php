@@ -5,8 +5,8 @@ ob_start();
 define('INSIDE', true);
 $ugamela_root_path='./';
 //include($ugamela_root_path . 'mobileuseragent/detect_mobile_client.' . $phpEx);
-header ("Location:login.php");
-
+//header ("Location:login.php");
+include ($ugamela_root_path . 'bootstrap.php');
 include ($ugamela_root_path . 'extension.inc');
 include ($ugamela_root_path . 'includes/db_connect.' . $phpEx);
 include ($ugamela_root_path . 'includes/common.' . $phpEx);
@@ -19,17 +19,11 @@ if (check_user())
 
 includeLang ('home');
 $parse=$lang;
-$sql  ="SELECT count(DISTINCT(id)) FROM wg_users";
-$db->setQuery($sql);
-$players=(int)$db->loadResult();
+$players=(int)$db->count('from wg_users','id');
 $parse['players']=$players;
-$sql="SELECT count(DISTINCT(id)) FROM wg_users WHERE actived=1";
-$db->setQuery($sql);
-$active=(int)$db->loadResult();
+$active=(int)$db->count('from wg_users where actived=1');
 $parse['active']=$active;
-$sql            ="SELECT count(DISTINCT username) FROM wg_sessions";
-$db->setQuery($sql);
-$online         =(int)$db->loadResult();
+$online         =(int)$db->count('from wg_sessions','username');
 $parse['online']=$online;
 $page           =parsetemplate(gettemplate('body'), $parse);
 display1($page, $lang['title']);

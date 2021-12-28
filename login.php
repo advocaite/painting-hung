@@ -4,6 +4,7 @@ ob_start();
 define('INSIDE', true);
 global $db, $game_config;
 $ugamela_root_path = './';
+include($ugamela_root_path . 'bootstrap.php');
 include($ugamela_root_path . 'extension.inc');
 include($ugamela_root_path . 'includes/db_connect.' . $phpEx);
 include($ugamela_root_path . 'includes/common.' . $phpEx);
@@ -128,7 +129,7 @@ if (count($_POST) <> 0 && $_POST['check'] == $_SESSION['security_login'])
         {
             //update status username on xgo.vn
             xGo_Update_Status($wg_users->username);
-            
+
             $expiretime = 0;
             $rememberme = 0;
             @include('config.php');
@@ -147,14 +148,14 @@ if (count($_POST) <> 0 && $_POST['check'] == $_SESSION['security_login'])
             $_SESSION['last_login']        = time();
 
             //$numUserOnline = new usersOnline();
-            //executeXML($numUserOnline->count_users());    
+            //executeXML($numUserOnline->count_users());
             updateAllPlus();
             //cap nhat dan so cho user
             returnWorkersLogin($wg_users->id);
             //cap he so RS
             returnKrsForUser($wg_users->id);
             /* -> chi su dung khi co ky dai level >90 tro len */
-            //checkWorldFinished();                
+            //checkWorldFinished();
 
             if (!insertFeature($_POST['username'], "Login"))
             {
@@ -216,10 +217,8 @@ function load_list_news()
     includeLang('login');
 
     //lay news tu database
-    $sql = " SELECT intro_text, url FROM `wg_news` ORDER BY date_create  DESC LIMIT 0 , 5";
-    $db->setQuery($sql);
     $array_news = null;
-    $array_news = $db->loadObjectList();
+    $array_news = $db->select('intro_text, url')->from('wg_news')->order('date_create DESC')->limit('0,5')->toList();
 
     if ($array_news == null)
         return $listnews = 'No News';
@@ -229,8 +228,8 @@ function load_list_news()
     foreach ($array_news as $news)
     {
         $parse['Stt']    = ++$i;
-        $parse['news']   = $news->intro_text;
-        $parse['url']    = $news->url;
+        $parse['news']   = $news['intro_text'];
+        $parse['url']    = $news['url'];
         $parse['detail'] = $lang['news2'];
         $listnews .= parsetemplate(gettemplate('news_login'), $parse);
     }

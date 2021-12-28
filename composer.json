@@ -8,5 +8,7 @@
             "Idiot\\PaintingHung\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "eftec/pdoone": "^2.18"
+    }
 }
